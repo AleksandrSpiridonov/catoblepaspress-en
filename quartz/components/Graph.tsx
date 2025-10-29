@@ -55,7 +55,7 @@ const defaultOptions: GraphOptions = {
     showTags: true,
     removeTags: [],
     focusOnHover: true,
-    enableRadial: true,
+    enableRadial: false,
   },
 }
 

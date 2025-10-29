@@ -43,11 +43,24 @@ export default (() => {
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
             <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" />
-            <link rel="stylesheet" href={googleFontHref(cfg.theme)} />
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+            <link rel="preload" href={googleFontHref(cfg.theme)} as="style" onLoad={(e) => { e.currentTarget.onload = null; e.currentTarget.rel = 'stylesheet'; }} />
+            <noscript><link rel="stylesheet" href={googleFontHref(cfg.theme)} /></noscript>
             {cfg.theme.typography.title && (
-              <link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} />
+              <link rel="preload" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} as="style" onLoad={(e) => { e.currentTarget.onload = null; e.currentTarget.rel = 'stylesheet'; }} />
             )}
+            {cfg.theme.typography.title && (
+              <noscript><link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} /></noscript>
+            )}
+            <style dangerouslySetInnerHTML={{
+              __html: `
+                /* Critical font loading optimization */
+                body { font-display: swap; }
+                .copyright { font-weight: normal !important; }
+                h1, h2, h3, h4, h5, h6 { font-display: swap; }
+                p, div, span, a, li, ul, ol { font-display: swap; }
+              `
+            }} />
           </>
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
