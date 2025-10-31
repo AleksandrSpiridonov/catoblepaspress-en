@@ -36,7 +36,7 @@ export default {
       title: "Проводник",
     },
     footer: {
-      createdWith: "Сайт создан <a href='/journal/authors/asp'>А. Спиридоновым-мл.</a> с помощью",
+      createdWith: "Сайт создан <a href='/authors/asp'>А. Спиридоновым-мл.</a> с помощью",
     },
     graph: {
       title: "Вид графа",
