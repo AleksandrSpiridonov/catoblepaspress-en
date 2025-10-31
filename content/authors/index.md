@@ -1,6 +1,10 @@
 ---
 title: Авторы
+description:
+aliases:
+  - Авторы
 ---
+Авторы и участники жизни [[published/index|издательства]] «Катоблепас» и его [[journal/index|журнала]].
 - [[evglebedev|Евгений Лебедев]]
 - [[medvedevartist|Евгений Медведев]]
 - [[ylisse|Елизавета Калужская]]

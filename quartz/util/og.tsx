@@ -206,6 +206,9 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
         height: "100%",
         width: "100%",
         backgroundColor: cfg.theme.colors[colorScheme].light,
+        // backgroundImage: `linear-gradient(120deg, #232536 0%, #3d3757 50%, #62d2a2 100%)`,
+        // backgroundImage: `url("https://${cfg.baseUrl}/static/og-image.png")`,
+        // backgroundSize: "100% 100%",
         padding: "2.5rem",
         fontFamily: bodyFont,
       }}
@@ -226,6 +229,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
             height={56}
             style={{
               borderRadius: "50%",
+              // backgroundColor: "black",
             }}
           />
         )}
@@ -331,7 +335,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
               {date}
             </div>
           )}
-          <div style={{ display: "flex", alignItems: "center" }}>
+          {/* <div style={{ display: "flex", alignItems: "center" }}>
             <svg
               style={{ marginRight: "0.5rem" }}
               width="28"
@@ -344,7 +348,7 @@ export const defaultImage: SocialImageOptions["imageStructure"] = ({
               <polyline points="12 6 12 12 16 14"></polyline>
             </svg>
             {readingTimeText}
-          </div>
+          </div> */}
         </div>
 
         {/* Right side - Tags */}

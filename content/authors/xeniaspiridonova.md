@@ -2,7 +2,7 @@
 aliases:
   - Ксения Спиридонова
 title: Ксения Спиридонова
-description:
+description: Акварелист, художник-реставратор, керамист
 tags:
   - художник
   - реставратор
@@ -16,6 +16,7 @@ tags:
 - [[№ 3 (3)|Выпуск № 3 (3)]]
 - [[№ 5 (4)|Выпуск № 5 (4)]]
 ## Контакты
-- https://xeniaspiridonova.com/
-- https://t.me/xeniaspiridonova — акварель
-- https://t.me/xenia_spiridonova_ceramics — керамика
+- [xeniaspiridonova.com](https://xeniaspiridonova.com/)
+- [TG: акварель](https://t.me/xeniaspiridonova)
+- [TG: керамика](https://t.me/xenia_spiridonova_ceramics)
+- [ВК: Акварель](https://vk.com/xeniaspiridonova)
