@@ -43,7 +43,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "publications",
+      filterFn: (node) => node.slugSegment !== "tags",
       sortFn: (a, b) => {
         // Сначала папки, потом файлы
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
@@ -133,7 +133,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => node.slugSegment !== "tags" && node.slugSegment !== "publications",
+      filterFn: (node) => node.slugSegment !== "tags",
       sortFn: (a, b) => {
         // Сначала папки, потом файлы
         if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
