@@ -5,7 +5,6 @@ title: Алексей Архипов
 description: Писатель-фантаст
 tags:
   - писатель
-date: 2025-10-31
 ---
 ## Об авторе
 Алексей Архипов — писатель-фантаст. Автор повести "[[almighty|Всемогущий]]".
@@ -18,5 +17,6 @@ date: 2025-10-31
 - [[№ 8 (5)|Выпуск № 8 (5)]]
 ## Книги
 - [[almighty|Всемогущий]], 2024
-	- https://books.yandex.ru/books/kR9c8s0C/read-online
-	- https://www.litres.ru/book/aleksey-arhipov-33129856/vsemoguschiy-70975639/
+	- [Яндекс.Книги](https://books.yandex.ru/books/kR9c8s0C/read-online)
+	- [Литрес](https://www.litres.ru/book/aleksey-arhipov-33129856/vsemoguschiy-70975639/)
+	- [Ridero](https://ridero.ru/books/vsemogushii_1/)
