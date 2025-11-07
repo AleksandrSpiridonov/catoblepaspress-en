@@ -2,5 +2,5 @@
 title: Контакты
 ---
 - [telegram](https://t.me/catoblepaspress)
-- [e-mail](mailto:spiridonovpress@mail.ru)
+- [e-mail](mailto:catoblepaspress@mail.ru)
 - Санкт-Петербург
