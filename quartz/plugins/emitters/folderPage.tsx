@@ -20,6 +20,7 @@ import { write } from "./helpers"
 import { i18n, TRANSLATIONS } from "../../i18n"
 import { BuildCtx } from "../../util/ctx"
 import { StaticResources } from "../../util/resources"
+import { createLocalizedConfig } from "../../util/locale"
 interface FolderPageOptions extends FullPageLayout {
   sort?: (f1: QuartzPluginData, f2: QuartzPluginData) => number
 }
@@ -37,19 +38,20 @@ async function* processFolderInfo(
   ][]) {
     const slug = joinSegments(folder, "index") as FullSlug
     const [tree, file] = folderContent
-    const cfg = ctx.cfg.configuration
+    const baseCfg = ctx.cfg.configuration
+    const localizedCfg = createLocalizedConfig(baseCfg, file.data)
     const externalResources = pageResources(pathToRoot(slug), resources)
     const componentData: QuartzComponentProps = {
       ctx,
       fileData: file.data,
       externalResources,
-      cfg,
+      cfg: localizedCfg,
       children: [],
       tree,
       allFiles,
     }
 
-    const content = renderPage(cfg, slug, componentData, opts, externalResources)
+    const content = renderPage(localizedCfg, slug, componentData, opts, externalResources)
     yield write({
       ctx,
       content,

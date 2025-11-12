@@ -4,13 +4,18 @@ import * as Component from "./quartz/components"
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
-  header: [],
+  header: [
+    Component.LanguageSwitcher(),
+  ],
   afterBody: [],
   footer: Component.CustomFooter({
     links: {
       "Telegram": "https://t.me/catoblepaspress",
     },
-    copyrightText: "© 2025 Издательство «Катоблепас»",
+    copyrightText: {
+      ru: "© 2025 Издательство «Катоблепас»",
+      en: "© 2025 Catoblepas Press",
+    },
   }),
 }
 
@@ -18,9 +23,7 @@ export const sharedPageComponents: SharedLayout = {
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
-      component: Component.Breadcrumbs({
-        rootName: "Главная",
-      }),
+      component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
@@ -115,9 +118,7 @@ export const defaultContentPageLayout: PageLayout = {
 
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
-  beforeBody: [Component.Breadcrumbs({
-    rootName: "Главная",
-  }), Component.ArticleTitle(), Component.ContentMeta({
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta({
     showReadingTime: false,
   })],
   left: [

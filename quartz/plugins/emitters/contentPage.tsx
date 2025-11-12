@@ -14,6 +14,7 @@ import { BuildCtx } from "../../util/ctx"
 import { Node } from "unist"
 import { StaticResources } from "../../util/resources"
 import { QuartzPluginData } from "../vfile"
+import { createLocalizedConfig } from "../../util/locale"
 
 async function processContent(
   ctx: BuildCtx,
@@ -24,19 +25,20 @@ async function processContent(
   resources: StaticResources,
 ) {
   const slug = fileData.slug!
-  const cfg = ctx.cfg.configuration
+  const baseCfg = ctx.cfg.configuration
+  const localizedCfg = createLocalizedConfig(baseCfg, fileData)
   const externalResources = pageResources(pathToRoot(slug), resources)
   const componentData: QuartzComponentProps = {
     ctx,
     fileData,
     externalResources,
-    cfg,
+    cfg: localizedCfg,
     children: [],
     tree,
     allFiles,
   }
 
-  const content = renderPage(cfg, slug, componentData, opts, externalResources)
+  const content = renderPage(localizedCfg, slug, componentData, opts, externalResources)
   return write({
     ctx,
     content,

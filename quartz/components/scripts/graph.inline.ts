@@ -20,6 +20,45 @@ import { registerEscapeHandler, removeAllChildren } from "./util"
 import { FullSlug, SimpleSlug, getFullSlug, resolveRelative, simplifySlug } from "../../util/path"
 import { D3Config } from "../Graph"
 
+declare global {
+  interface Window {
+    quartzLang?: string
+  }
+}
+
+const SUPPORTED_LANGUAGES = new Set(["ru", "en"])
+const PREFERRED_LANGUAGE_KEY = "preferredLanguage"
+
+function getSlugLanguage(slug: SimpleSlug): string | undefined {
+  const [segment] = slug.split("/")
+  if (segment && SUPPORTED_LANGUAGES.has(segment)) {
+    return segment
+  }
+
+  return undefined
+}
+
+function resolveActiveLanguage(currentSlug: SimpleSlug): string {
+  const slugLanguage = getSlugLanguage(currentSlug)
+  if (slugLanguage) {
+    return slugLanguage
+  }
+
+  if (typeof window !== "undefined") {
+    const preference = (window as typeof window & { quartzLang?: string }).quartzLang
+    if (preference && SUPPORTED_LANGUAGES.has(preference)) {
+      return preference
+    }
+
+    const stored = window.localStorage.getItem(PREFERRED_LANGUAGE_KEY)
+    if (stored && SUPPORTED_LANGUAGES.has(stored)) {
+      return stored
+    }
+  }
+
+  return "ru"
+}
+
 type GraphicsInfo = {
   color: string
   gfx: Graphics
@@ -70,6 +109,7 @@ type TweenNode = {
 
 async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const slug = simplifySlug(fullSlug)
+  const activeLanguage = resolveActiveLanguage(slug)
   const visited = getVisited()
   removeAllChildren(graph)
 
@@ -95,6 +135,19 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       v,
     ]),
   )
+  for (const [key, details] of [...data.entries()]) {
+    if (key.startsWith("tags/")) {
+      continue
+    }
+
+    const detailLanguage = details.lang ?? "ru"
+    if (SUPPORTED_LANGUAGES.has(detailLanguage) && detailLanguage !== activeLanguage) {
+      data.delete(key)
+    } else if (!SUPPORTED_LANGUAGES.has(detailLanguage) && activeLanguage !== "ru") {
+      data.delete(key)
+    }
+  }
+
   const links: SimpleLinkData[] = []
   const tags: SimpleSlug[] = []
   const validLinks = new Set(data.keys())

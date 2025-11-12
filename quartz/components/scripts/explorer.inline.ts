@@ -20,6 +20,42 @@ type FolderState = {
 }
 
 let currentExplorerState: Array<FolderState>
+const SUPPORTED_LANGUAGES = ["ru", "en"] as const
+const LANGUAGE_SEGMENTS = new Set(SUPPORTED_LANGUAGES)
+
+function determineLanguage(slug: FullSlug): string {
+  const normalized = simplifySlug(slug)
+  const primarySegment = normalized.split("/")[0]
+  if (primarySegment && LANGUAGE_SEGMENTS.has(primarySegment)) {
+    return primarySegment
+  }
+
+  if (typeof window !== "undefined") {
+    const candidate = (window as typeof window & { quartzLang?: string }).quartzLang
+    if (candidate && LANGUAGE_SEGMENTS.has(candidate)) {
+      return candidate
+    }
+  }
+
+  return "ru"
+}
+
+function shouldIncludeEntry(
+  slug: FullSlug,
+  details: ContentDetails,
+  activeLanguage: string,
+): boolean {
+  if (slug.startsWith("tags/")) {
+    return true
+  }
+
+  const language = details.lang ?? "ru"
+  if (!LANGUAGE_SEGMENTS.has(language as typeof SUPPORTED_LANGUAGES[number])) {
+    return activeLanguage === "ru"
+  }
+
+  return language === activeLanguage
+}
 function toggleExplorer(this: HTMLElement) {
   const nearestExplorer = this.closest(".explorer") as HTMLElement
   if (!nearestExplorer) return
@@ -174,7 +210,11 @@ async function setupExplorer(currentSlug: FullSlug) {
 
     const data = await fetchData
     const entries = [...Object.entries(data)] as [FullSlug, ContentDetails][]
-    const trie = FileTrieNode.fromEntries(entries)
+    const activeLanguage = determineLanguage(currentSlug)
+    const filteredEntries = entries.filter(([slug, details]) =>
+      shouldIncludeEntry(slug, details, activeLanguage),
+    )
+    const trie = FileTrieNode.fromEntries(filteredEntries)
 
     // Apply functions in order
     for (const fn of opts.order) {

@@ -36,7 +36,10 @@ export default {
       title: "Explorer",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "Website created by <a href='/authors/asp'>A. Spiridonov Jr.</a> with",
+    },
+    breadcrumbs: {
+      root: "Home",
     },
     graph: {
       title: "Graph View",

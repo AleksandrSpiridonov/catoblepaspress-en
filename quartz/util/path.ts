@@ -79,6 +79,15 @@ export function slugifyFilePath(fp: FilePath, excludeExt?: boolean): FullSlug {
 
   let slug = sluggify(withoutFileExt)
 
+  const slugSegments = slug.split("/").filter((segment) => segment.length > 0)
+  if (slugSegments[0] === "ru") {
+    slugSegments.shift()
+    slug = slugSegments.join("/")
+    if (slug === "") {
+      slug = "index"
+    }
+  }
+
   // treat _index as index
   if (endsWith(slug, "_index")) {
     slug = slug.replace(/_index$/, "index")

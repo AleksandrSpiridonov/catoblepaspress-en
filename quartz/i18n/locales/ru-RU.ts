@@ -38,6 +38,9 @@ export default {
     footer: {
       createdWith: "Сайт создан <a href='/authors/asp'>А. Спиридоновым-мл.</a> с помощью",
     },
+    breadcrumbs: {
+      root: "Главная",
+    },
     graph: {
       title: "Вид графа",
     },

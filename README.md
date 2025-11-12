@@ -16,3 +16,16 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
     <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
   </a>
 </p>
+
+## Localization Guide
+
+The site ships with a bilingual navigation system for Russian (`ru`) and English (`en`) content. Pages are organised under `content/ru` and `content/en`. Each Markdown file should declare the language in its frontmatter, for example:
+
+```markdown
+---
+title: Catoblepas Press
+lang: en
+---
+```
+
+The header language switcher automatically links between matching slugs (`/ru/...` ↔ `/en/...`) and remembers the visitor’s preference. When adding a translated page, mirror the path structure inside `content/en` and Quartz will expose it under `/en/…`. If no translation exists, the switcher falls back to the section landing page.
