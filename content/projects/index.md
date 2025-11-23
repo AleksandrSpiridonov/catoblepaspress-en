@@ -9,3 +9,4 @@ tags:
 - [[bookclub|Книжный клуб]]
 - [[filmclub|Киноклуб]]
 - [[voxcatoblepae|Vox Catoblepae]]
+- [[performancelecture|Перфолекция «Экологическое стихосложение»]]
