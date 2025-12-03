@@ -15,6 +15,7 @@ tags:
 - [[№ 2 (2)|Выпуск № 2 (2)]]
 - [[№ 3 (3)|Выпуск № 3 (3)]]
 - [[№ 5 (4)|Выпуск № 5 (4)]]
+- [[№ 13 (6)|Выпуск № 13 (6)]]
 ## Контакты
 - [xeniaspiridonova.com](https://xeniaspiridonova.com/)
 - [TG: акварель](https://t.me/xeniaspiridonova)
