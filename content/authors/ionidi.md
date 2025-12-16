@@ -15,6 +15,8 @@ tags:
 
 ## Участие в журнале
 - [[№ 8 (5)|Выпуск № 8 (5)]]
+### Награды
+- [[voxcatoblepae|Vox Catoblepae]] 2025
 ## Контакты
 - https://ionidi-photo.ru/
 - [Подожди,я фокус наведу](https://t.me/pionnidi_tg) — тг-канал

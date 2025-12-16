@@ -3,6 +3,8 @@ import smartypants from "remark-smartypants"
 import { QuartzTransformerPlugin } from "../types"
 import rehypeSlug from "rehype-slug"
 import rehypeAutolinkHeadings from "rehype-autolink-headings"
+import { visit } from "unist-util-visit"
+import { i18n } from "../../i18n"
 
 export interface Options {
   enableSmartyPants: boolean
@@ -21,9 +23,11 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
     markdownPlugins() {
       return opts.enableSmartyPants ? [remarkGfm, smartypants] : [remarkGfm]
     },
-    htmlPlugins() {
+    htmlPlugins(ctx) {
+      const plugins: any[] = []
+      
       if (opts.linkHeadings) {
-        return [
+        plugins.push(
           rehypeSlug,
           [
             rehypeAutolinkHeadings,
@@ -69,10 +73,56 @@ export const GitHubFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>> =
               },
             },
           ],
-        ]
-      } else {
-        return []
+        )
       }
+
+      // Localize footnotes title
+      plugins.push(() => {
+        return (tree: any) => {
+          const locale = ctx.cfg.configuration.locale ?? "en-US"
+          const footnotesTitle = i18n(locale).components.footnotes.title
+
+          visit(tree, "element", (node: any) => {
+            // Check if this is the footnotes heading with id="footnote-label"
+            if (
+              node.tagName === "h2" &&
+              node.properties?.id === "footnote-label"
+            ) {
+              // Find the first text node and replace it, or prepend a new one
+              if (node.children && node.children.length > 0) {
+                const textNodeIndex = node.children.findIndex(
+                  (child: any) => child.type === "text"
+                )
+                if (textNodeIndex !== -1) {
+                  // Replace existing text node
+                  node.children[textNodeIndex].value = footnotesTitle
+                  // Remove any other text nodes that might exist
+                  node.children = node.children.filter(
+                    (child: any, index: number) =>
+                      child.type !== "text" || index === textNodeIndex
+                  )
+                } else {
+                  // Prepend text node if none exists
+                  node.children.unshift({
+                    type: "text",
+                    value: footnotesTitle,
+                  })
+                }
+              } else {
+                // If no children, create text node
+                node.children = [
+                  {
+                    type: "text",
+                    value: footnotesTitle,
+                  },
+                ]
+              }
+            }
+          })
+        }
+      })
+
+      return plugins
     },
   }
 }

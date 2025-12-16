@@ -93,6 +93,8 @@ tags:
 ## Участие в журнале
 - [[№ 1 (1)|Выпуск № 1 (1)]]
 - [[№ 13 (6)|Выпуск № 13 (6)]]
+### Награды
+- [[voxcatoblepae|Vox Catoblepae]] 2025
 ## Контакты
 - [vk.com/somebody15](https://vk.com/somebody15)
 - [Теология](https://vk.com/nekto15_theology)

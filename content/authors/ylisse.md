@@ -21,5 +21,7 @@ tags:
 - [[№ 3 (3)|Выпуск № 3 (3)]]
 - [[№ 5 (4)|Выпуск № 5 (4)]]
 - [[№ 8 (5)|Выпуск № 8 (5)]]
+### Награды
+- [[voxcatoblepae|Vox Catoblepae]] 2025
 ## Контакты
-- https://ylisse.tilda.ws/
+- [ylisse.tilda.ws](https://ylisse.tilda.ws/)

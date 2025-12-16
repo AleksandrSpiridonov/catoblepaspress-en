@@ -20,4 +20,4 @@ tags:
 - [xeniaspiridonova.com](https://xeniaspiridonova.com/)
 - [TG: акварель](https://t.me/xeniaspiridonova)
 - [TG: керамика](https://t.me/xenia_spiridonova_ceramics)
-- [ВК: Акварель](https://vk.com/xeniaspiridonova)
+- [ВК: акварель](https://vk.com/xeniaspiridonova)

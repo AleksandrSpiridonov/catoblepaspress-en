@@ -24,5 +24,5 @@ tags:
 ## Участие в журнале
 - [[№ 3 (3)|Выпуск № 3 (3)]]
 ## Контакты
-- https://photomascha.wfolio.pro/
-- [vk.com/mascha_chudnaya](http://vk.com/mascha_chudnaya)
+- [photomascha.wfolio.pro](https://photomascha.wfolio.pro/)
+- [vk.com/mascha_chudnaya](https://vk.com/mascha_chudnaya)
