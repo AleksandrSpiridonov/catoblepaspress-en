@@ -5,8 +5,21 @@ title: Vox Catoblepae
 description: Антология Международной деканнале
 tags:
 ---
-## Vox Catoblepae
-Представляем вашему вниманию антологию Международной деканнале Vox Catoblepae!  
+## Антология Международной деканнале«Vox Catoblepae» 2025
+<script async src="https://telegram.org/js/telegram-widget.js?22"
+        data-telegram-post="catoblepaspress/152"
+        data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?22"
+        data-telegram-post="catoblepaspress/158"
+        data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?22"
+        data-telegram-post="catoblepaspress/164"
+        data-width="100%"></script>
+<script async src="https://telegram.org/js/telegram-widget.js?22"
+        data-telegram-post="catoblepaspress/166"
+        data-width="100%"></script>
+
+Представляем вашему вниманию антологию Международной деканнале«Vox Catoblepae»!  
 
 В издание вошли лауреаты 2025 года из России, Великобритании, Франции, Германии и Кипра:  
 Надя Эльпида Мурзе — [her.pictures](https://her.pictures)  
