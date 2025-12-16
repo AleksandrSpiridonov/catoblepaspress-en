@@ -32,4 +32,4 @@ tags:
 ## Награды
 - [[voxcatoblepae|Vox Catoblepae]] 2025
 ## Контакты
-- @seule_a_paris
+- [@seule_a_paris](https://www.instagram.com/seule_a_paris)

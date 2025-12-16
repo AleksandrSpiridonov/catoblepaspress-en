@@ -5,7 +5,7 @@ title: Vox Catoblepae
 description: Антология Международной деканнале
 tags:
 ---
-## Антология Международной деканнале«Vox Catoblepae» 2025
+## Антология Международной деканнале «Vox Catoblepae» 2025
 <script async src="https://telegram.org/js/telegram-widget.js?22"
         data-telegram-post="catoblepaspress/152"
         data-width="100%"></script>
