@@ -27,4 +27,4 @@ tags:
 ## Театр
 - [Signa](https://signa.dk/projects_pid=111178.html) — [Playthings](https://oteatre.info/signa-zapiski-iz-vosmogo-doma/), 2019
 ## Контакты
-- t.me/bellyinbelly
+- [t.me/bellyinbelly](https://t.me/bellyinbelly)
