@@ -1,3 +1,17 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+.video-wrapper {
+  position: relative;
+  width: 100%;          // занимает всю доступную ширину
+  max-width: 800px;     // по желанию: ограничить на больших экранах
+  margin: 0 auto;       // центрирование
+  aspect-ratio: 16 / 9; // современные браузеры
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
