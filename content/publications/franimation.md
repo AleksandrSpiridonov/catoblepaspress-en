@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Французская анимация. Выбор Ники Непутиной
-title: Французская анимация. Выбор Ники Непутиной
-description: Авторская подборка современной французской анимации от Ники Непутиной
+  - French Animation. Nika Neputina’s Selection
+title: French Animation. Nika Neputina’s Selection
+description: Curated selection of contemporary French animation by Nika Neputina
 tags:
-  - анимация
+  - animation
 ---
-# Французская анимация. Выбор [Ники Непутиной](https://t.me/animfolder)
+# French Animation. Selection by [Nika Neputina](https://t.me/animfolder)
 
 ### [NOIR-SOLEIL | Marie Larrivé](https://vimeo.com/1122149267), 2021
 <div class="video-wrapper">
@@ -18,7 +18,7 @@ tags:
   ></iframe>
 </div>
 
-После землетрясения в Неаполитанском заливе обнаружено тело мужчины. Итальянская полиция предполагает, что он покончил с собой сорок лет назад. Для проведения ДНК-экспертизы они связываются с Дино и его дочерью Викторией. Во время этого неожиданного совместного путешествия молодая женщина копается в таинственном прошлом своего отца, в то время как Дино невольно возвращается в декорации своего детства.
+After an earthquake in the Bay of Naples, a man’s body is discovered. Italian police assume he took his own life forty years ago. For DNA testing they contact Dino and his daughter Victoria. During this unexpected shared trip, the young woman digs into her father’s mysterious past, while Dino is involuntarily returned to the scenery of his childhood.
 
 ### [FURRIE | Lucie Grannec](https://youtu.be/tZnAY8yNjJE?si=-YezhooNMKEgthyr), 2022
 <div class="video-wrapper">
@@ -32,7 +32,7 @@ tags:
 
 "We are people playing pretend, that's all it is in the end"
 
-Удивительно деликатный и красивый для данной темы фильм. Фурри-сообщество сильно стигматизировано, с ним часто связывают странные и сексуально девиантные практики, хотя на самом деле далеко не все фурри этим занимаются: кому-то просто нравится играть в зверят, кто-то рисует или шьет костюмы на заказ. А есть и ультраправые фурри и лисята-республиканцы, так что эта субкультура действительно очень многогранна. 
+A surprisingly delicate and beautiful film for this topic. The furry community is heavily stigmatized and often associated with strange and sexually deviant practices, although in fact far from all furries are involved in that: some people simply enjoy role-playing animals, others draw or sew costumes to order. There are even far-right furries and fox republicans, so this subculture is truly multifaceted.
 
 ### [SOLEIL GRIS | Camille Monnier](https://www.youtube.com/watch?v=hMHD1eFtyhI), 2024
 <div class="video-wrapper">
@@ -44,8 +44,7 @@ tags:
   ></iframe>
 </div>
 
-
-Под палящим солнцем Шарли сильно скучает и мечтает поехать на море. Но она вынуждена проводить время в захудалом мотеле со своей двоюродной сестрой Джесс. Девушки не ладят друг с другом и ссорятся по малейшему поводу. По радио монотонный голос предсказывает неминуемый конец света. Бассейн пуст, светит яркое солнце, напряжение нарастает: экологический апокалипсис, объявленный в эфире, внезапно врывается в реальность.
+Under the blazing sun, Charlie is terribly bored and dreams of going to the sea. But she is forced to spend time in a rundown motel with her cousin Jess. The girls do not get along and quarrel over every little thing. On the radio, a monotonous voice predicts the imminent end of the world. The pool is empty, the sun burns bright, tension rises: the ecological apocalypse announced on air suddenly bursts into reality.
 
 ### [L’HEURE DE L’OURS | Agnès Patron](https://www.youtube.com/watch?v=uqEjr-i7LtM), 2019
 <div class="video-wrapper">
@@ -57,9 +56,9 @@ tags:
   ></iframe>
 </div>
 
-"В ту же ночь дома будут гореть. Мужчины и женщины будут дрожать. Толпы детей соберутся вместе и будут выть, танцуя в одиночестве на пепелище, как дикие медведи. Достаточно одного крика, чтобы пробудить их ото сна!"
+"That same night, houses will burn. Men and women will tremble. Crowds of children will gather and howl, dancing alone in the ashes like wild bears. A single scream is enough to wake them from sleep!"
 
-История взросления мальчика, который пытается примириться с появлением нового мужчины в жизни своей матери и с болезненными изменениями в семье. Фильм целиком погружён в его внутренний мир — ревности, смятения и неистовой, закипающей ярости.
+A coming-of-age story about a boy trying to come to terms with a new man in his mother’s life and with painful family changes. The film is entirely immersed in his inner world—jealousy, confusion, and fierce, boiling rage.
 
 ### [FILLES BLEUES, PEUR BLANCHE | Marie Jacotey & Lola Halifa-Legrand](https://www.youtube.com/watch?v=DD4IhUJSyKo), 2020
 <div class="video-wrapper">
@@ -71,7 +70,7 @@ tags:
   ></iframe>
 </div>
 
-Во время автопутешествия Нильс рассказывает своей девушке Флоре о племени женщин, съевших друг друга, и о своей первой любви, с которой он целовался в роще. Эти истории тревожат Флору и запускают цепочку загадочных событий: внезапно её похищают одичавшие бывшие возлюбленные Нильса и хотят провести некий таинственный ритуал.
+During a road trip, Nils tells his girlfriend Flora about a tribe of women who ate one another and about his first love, whom he kissed in a grove. These stories unsettle Flora and trigger a chain of mysterious events: suddenly she is kidnapped by Nils’s feral ex-lovers who want to perform a certain mysterious ritual.
 
-## Впервые опубликовано
-- [[№ 21 (7)|Выпуск № 21 (7)]]
+## First published in
+- [[№ 21 (7)|Issue № 21 (7)]]

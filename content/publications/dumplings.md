@@ -1,58 +1,58 @@
 ---
 aliases:
-  - Пельмени с майонезом
-title: Пельмени с майонезом
-description: Стихотворение Юрия Шипкова
+  - Dumplings with Mayonnaise
+title: Dumplings with Mayonnaise
+description: Poem by Yury Shipkov
 tags:
-  - поэзия
+  - poetry
 ---
-# Пельмени с майонезом
-[Юрий Шипков](https://www.instagram.com/yura_shipkov)
+# Dumplings with Mayonnaise
+[Yury Shipkov](https://www.instagram.com/yura_shipkov)
 
-я — громогласно  
-признаю себя  
-ГЕ-НИ-ЕМ  
-вернее  
-тихонько  
-и шёпотом  
-точнее  
-молчу  
+I — loudly  
+recognize myself  
+as a GE-NI-US  
+or rather  
+quietly  
+and in a whisper  
+more precisely  
+I keep silent  
 
-молчу  
-но твердо  
-знаю  
-вот я ГЕНИЙ  
-и всё  
-что я делаю  
-гениально  
-хотя  
-есть сомнения  
+I keep silent  
+but firmly  
+know  
+that I am a GENIUS  
+and all  
+that I do  
+is brilliant  
+although  
+there are doubts  
 
-наверное всё же  
-не всё.  
-а может  
-и вовсе так быть  
-что ничего  
-совсем  
-ничего  
-может быть  
-я и не Гений  
-но знаю одно  
-что пельмени  
-отлично идут с  
-майонезом  
+maybe after all  
+not everything.  
+or maybe  
+it may even be  
+that nothing  
+at all  
+nothing  
+perhaps  
+I am not a Genius  
+but I know one thing  
+that dumplings  
+go perfectly with  
+mayonnaise  
 
-к чему это я?  
+why am I saying this?  
 
-Ах да,  
-я где-то читал  
-что все гении  
-бедно жили  
-так вот пельмени  
-не назвать едой  
-буржуа  
-тем более  
-с майонезом  
+Ah yes,  
+I read somewhere  
+that all geniuses  
+lived poorly  
+well then dumplings  
+can hardly be called  
+bourgeois food  
+especially  
+with mayonnaise  
 
-## Впервые опубликовано
-- [[№ 21 (7)|Выпуск № 21 (7)]]
+## First published in
+- [[№ 21 (7)|Issue № 21 (7)]]
