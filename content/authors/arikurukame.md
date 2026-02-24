@@ -28,3 +28,4 @@ Sevak Pogosyan (1994, Saint Petersburg) is a poet, artist, and actor from Saint 
 
 ## Contacts
 - [ARIKURUKAME on vk.com](https://vk.com/club219969961)
+- [@arikurukame](https://www.instagram.com/arikurukame)

@@ -1,16 +1,16 @@
 ---
 aliases:
-  - Katya Clou
-title: Katya Clou
-description: Artist and poet. In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Katya works with text and visual imagery in collage techniques.
+  - Catia Clou
+title: Catia Clou
+description: Artist and poet. In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Catia works with text and visual imagery in collage techniques.
 tags:
   - poet
   - artist
 ---
 ## About the author
-Katya Clou is an artist and poet living and working in Paris. Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
+Catia Clou is an artist and poet living and working in Paris. Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
 
-In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Katya works with text and visual imagery in collage techniques.
+In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Catia works with text and visual imagery in collage techniques.
 
 ### Education
 - N.K. Roerich Art School, design in architectural-spatial environment.

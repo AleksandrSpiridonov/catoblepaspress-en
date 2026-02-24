@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Telegram": "https://t.me/catoblepaspress",
     },
-    copyrightText: "© 2025 Catoblepas Press",
+    copyrightText: "© 2025-2026 Catoblepas Press",
   }),
 }
 
