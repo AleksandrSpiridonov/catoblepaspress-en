@@ -1,21 +1,21 @@
 ---
-title: Авторы
+title: Authors
 description:
 aliases:
-  - Авторы
+  - Authors
 ---
-Авторы и участники жизни [[published/index|издательства]] «Катоблепас» и его [[journal/index|журнала]].
-- [[evglebedev|Евгений Лебедев]]
-- [[medvedevartist|Евгений Медведев]]
-- [[ylisse|Елизавета Калужская]]
-- [[xeniaspiridonova|Ксения Спиридонова]]
-- [[chudnaya|Мария Чудная]]
-- [[ionidi|Полина Иониди]]
-- [[olenev|Юрий Оленев]]
-- [[chuftee|Анна Ланцова]]
-- [[kovers|Константин Верстуков]]
-- [[arikurukame|Севак Погосян]]
-- [[arebinder|Александра Рожковская]]
-- [[anikin|Никита Аникин]]
-- [[archipov|Алексей Архипов]]
-- [[asp|Александр Спиридонов-мл.]]
+Authors and contributors of [[published/index|Catoblepas Press]] and its [[journal/index|journal]].
+- [[evglebedev|Evgeny Lebedev]]
+- [[medvedevartist|Evgeny Medvedev]]
+- [[ylisse|Elizaveta Kaluzhskaya]]
+- [[xeniaspiridonova|Ksenia Spiridonova]]
+- [[chudnaya|Maria Chudnaya]]
+- [[ionidi|Polina Ionidi]]
+- [[olenev|Yury Olenev]]
+- [[chuftee|Anna Lantsova]]
+- [[kovers|Konstantin Verstukov]]
+- [[arikurukame|Sevak Pogosyan]]
+- [[arebinder|Aleksandra Rozhkovskaya]]
+- [[anikin|Nikita Anikin]]
+- [[archipov|Alexey Arkhipov]]
+- [[asp|Aleksandr Spiridonov Jr.]]

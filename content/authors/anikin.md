@@ -1,13 +1,13 @@
 ---
-aliases: Никита Аникин
-title: Никита Аникин
-description: Музыкант, стереофотограф
+aliases: Nikita Anikin
+title: Nikita Anikin
+description: Musician, stereo photographer
 tags:
-  - музыкант
-  - фотограф
+  - musician
+  - photographer
 ---
-## Об авторе
-Никита Аникин — музыкант, стереофотограф.
-## Участие в журнале
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 8 (5)|Выпуск № 8 (5)]]
+## About the author
+Nikita Anikin is a musician and stereo photographer.
+## Journal participation
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 8 (5)|Issue № 8 (5)]]

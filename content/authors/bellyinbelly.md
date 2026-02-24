@@ -1,30 +1,35 @@
 ---
 aliases:
-  - Маруся Навка
-title: Маруся Навка
-description: Поэт, панк, музыкант. Автор поэмы «Собачья родинка»
+  - Marusya Navka
+title: Marusya Navka
+description: Poet, punk, musician. Author of the poem “Dog Mole”
 tags:
-  - поэт
-  - панк
-  - музыкант
+  - poet
+  - punk
+  - musician
 ---
-## Об авторе
-Маруся Навка (2001, Санкт-Петербург) — поэт, панк, музыкант. Автор поэмы «Собачья родинка». Лауреат [[voxcatoblepae|Vox Catoblepae]] 2025.
-### Биография
-> [!Quote] 
-> Пишу стихи и песенки сколько себя помню.
+## About the author
+Marusya Navka (2001, Saint Petersburg) is a poet, punk, and musician. Author of the long poem “Dog Mole.” Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
 
-Осенью 2025 года Маруся самостоятельно выпустила свою первую книгу — поэму «Собачья родинка».
+### Biography
+> [!Quote]
+> I’ve been writing poems and little songs for as long as I can remember.
 
-С 2022 по 2025 год постоянный участник панк-группы «Оборонный комплекс». Осенью 2025 года вышел EP совместно с анти-фолк группой «Бобок».
+In autumn 2025, Marusya independently published her first book — the long poem “Dog Mole.”
 
-Сейчас Маруся активно сотрудничает с музыкантами в разных жанрах, работает над сольным альбомом и продолжением поэмы. 
-### Награды
+From 2022 to 2025, she was a regular participant in the punk band “Oboronny Kompleks.” In autumn 2025, an EP was released in collaboration with the anti-folk band “Bobok.”
+
+Now Marusya actively collaborates with musicians across genres and is working on a solo album and the continuation of her poem.
+
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-- [Брунделяк моего сердца](https://vk.com/prbrundulyak), 2025
-## Библиография
-- Поэма «Собачья родинка», самиздат, 2025
-## Театр
+- [Brundelyak of My Heart](https://vk.com/prbrundulyak), 2025
+
+## Bibliography
+- Long poem “Dog Mole,” self-published, 2025
+
+## Theatre
 - [Signa](https://signa.dk/projects_pid=111178.html) — [Playthings](https://oteatre.info/signa-zapiski-iz-vosmogo-doma/), 2019
-## Контакты
+
+## Contacts
 - [t.me/bellyinbelly](https://t.me/bellyinbelly)
