@@ -1,20 +1,18 @@
 ---
 aliases:
-  - Алексей Архипов
-title: Алексей Архипов
-description: Писатель-фантаст
+  - Alexey Arkhipov
+title: Alexey Arkhipov
+description: Science fiction writer
 tags:
-  - писатель
+  - writer
 ---
-## Об авторе
+## About the author
+Alexey Arkhipov is a science fiction writer.
 
-### Биография
-Родился в Москве в 1990 году. Закончил факультет кибернетики в НИЯУ «МИФИ». Несколько лет работал по специальности. Получил дополнительное финансовое образование и продолжил карьеру на стыке ИТ и финансов.
+### Biography
+Born in Moscow in 1990. Graduated from the Cybernetics Faculty at NRNU MEPhI. Worked in the field for several years. Later received additional financial education and continued his career at the intersection of IT and finance.
 
-С юности увлекается литературой. Долгое время писал исключительно для себя. Писательство стало для него способом осмысления философских и социальных вопросов. Через сюжет и персонажей он стремился найти ответы на сложные темы. Он убеждён, что именно художественная литература способна наиболее доходчиво раскрывать глубинные проблемы, используя историю, конфликт и действия героев, в отличие от нехудожественных форм. Сейчас он стремится развить своё увлечение и создавать законченные литературные произведения.
-## Участие в журнале
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-## Книги
-	- [Яндекс.Книги](https://books.yandex.ru/books/kR9c8s0C/read-online)
-	- [Литрес](https://www.litres.ru/book/aleksey-arhipov-33129856/vsemoguschiy-70975639/)
-	- [Ridero](https://ridero.ru/books/vsemogushii_1/)
+Interested in literature from a young age. For a long time he wrote only for himself. Writing became his way of reflecting on philosophical and social questions. Through plot and characters he sought answers to complex themes. He believes that fiction is the clearest way to reveal deep issues through story, conflict, and character action, unlike non-fiction forms. Today he aims to further develop this practice and create complete literary works.
+
+## Journal participation
+- [[№ 8 (5)|Issue № 8 (5)]]
