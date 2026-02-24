@@ -1,12 +1,12 @@
 ---
 aliases:
-  - Проект
-title: Проекты
-description: Наши open-call'ы, мероприятия, клубы
+  - Project
+title: Projects
+description: Our open calls, events, and clubs
 tags:
 ---
-## Проекты
-- [[bookclub|Книжный клуб]]
-- [[filmclub|Киноклуб]]
+## Projects
+- [[bookclub|Book Club]]
+- [[filmclub|Film Club]]
 - [[voxcatoblepae|Vox Catoblepae]]
-- [[performancelecture|Перфолекция «Экологическое стихосложение»]]
+- [[performancelecture|Performance Lecture "Ecological Poetry Writing"]]
