@@ -5,7 +5,7 @@ import { classNames } from "../util/lang"
 const ReaderMode: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComponentProps) => {
   const isEnglishSite = (cfg.baseUrl ?? "").startsWith("en.")
   const targetBase = isEnglishSite ? "https://catoblepaspress.ru" : "https://en.catoblepaspress.ru"
-  const targetLabel = isEnglishSite ? "🇷🇺" : "🇬🇧"
+  const targetLabel = isEnglishSite ? "RU" : "EN"
 
   const slug = fileData.slug ?? "index"
   const path = slug === "index" ? "/" : `/${slug}`
@@ -17,7 +17,7 @@ const ReaderMode: QuartzComponent = ({ displayClass, cfg, fileData }: QuartzComp
       href={href}
       aria-label={isEnglishSite ? "Switch to Russian" : "Switch to English"}
     >
-      <span style="font-size: 0.95rem; line-height: 1;">{targetLabel}</span>
+      <span style="font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em;">{targetLabel}</span>
     </a>
   )
 }
