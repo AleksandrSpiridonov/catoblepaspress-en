@@ -1,28 +1,31 @@
 ---
 aliases:
-  - Елизавета Калужская
-title: Елизавета Калужская
-description: Междисциплинарный художник, педагог, куратор и исследователь
+  - Elizaveta Kaluzhskaya
+title: Elizaveta Kaluzhskaya
+description: Interdisciplinary artist, educator, curator, and researcher
 tags:
-  - художник
-  - куратор
+  - artist
+  - curator
 ---
-## О художнике
-Елизавета Калужская (1992, Санкт-Петербург) — междисциплинарный художник, педагог, куратор и исследователь. Живёт и работает в Лондоне. 
+## About the artist
+Elizaveta Kaluzhskaya (1992, Saint Petersburg) is an interdisciplinary artist, educator, curator, and researcher. She lives and works in London.
 
-В центре её практики — участие во взаимодействии с «более-чем-человеческими» (more-than-human) сообществами: растениями, насекомыми, бактериями и другими агентами природы. Работы Лизы объединяют искусство, педагогику и исследование, опираясь на теорию сложных систем, постгуманизм и новые материалистические подходы. Она ставит вопросы о том, что значит «участие», когда оно охватывает не только людей, но и представителей других видов.
+At the center of her practice is participation in interaction with “more-than-human” communities: plants, insects, bacteria, and other agents of nature. Lisa’s works combine art, pedagogy, and research, drawing on complexity theory, posthumanism, and new materialist approaches. She asks what “participation” means when it includes not only humans but also representatives of other species.
 
-Лиза раскрывает невидимые связи между биологическими, социальными и экологическими сетями, демонстрируя запутанный и непредсказуемый характер живых систем. Её проекты сопротивляются редукционизму и открывают новые способы получения знаний и воображения политики в рамках отношений между человеком и природой.
+Lisa reveals invisible links between biological, social, and ecological networks, demonstrating the entangled and unpredictable character of living systems. Her projects resist reductionism and open new ways of producing knowledge and imagining politics within human–nature relations.
 
-В числе реализованных проектов — «Справочник по сопротивлению», «Коллективные тела», «Хроники сада», «Взаимные отношения», поэтическая коллекция и практики «участвующих прогулок». Каждый из них исследует тему сообществ, симбиоза, языкового и чувственного перехода границ. Подробнее можно посмотреть на [[ylisse#Контакты|сайте]]. 
-## Участие в журнале
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 2 (2)|Выпуск № 2 (2)]]
-- [[№ 3 (3)|Выпуск № 3 (3)]]
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-- [[№ 21 (7)|Выпуск № 21 (7)]]
-### Награды
+Among her realized projects are “Handbook of Resistance,” “Collective Bodies,” “Garden Chronicles,” “Reciprocal Relations,” as well as a poetic collection and practices of “participatory walks.” Each explores communities, symbiosis, and linguistic and sensory boundary-crossing. More details are available on her [[ylisse#Contacts|website]].
+
+## Journal participation
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 2 (2)|Issue № 2 (2)]]
+- [[№ 3 (3)|Issue № 3 (3)]]
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 8 (5)|Issue № 8 (5)]]
+- [[№ 21 (7)|Issue № 21 (7)]]
+
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
+
+## Contacts
 - [ylisse.tilda.ws](https://ylisse.tilda.ws/)
