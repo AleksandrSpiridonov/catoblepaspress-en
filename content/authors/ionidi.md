@@ -1,23 +1,23 @@
 ---
 aliases:
-  - Полина Иониди
-title: Полина Иониди
-description: Фотограф и режиссёр
+  - Polina Ionidi
+title: Polina Ionidi
+description: Photographer and director
 tags:
-  - фотограф
-  - режиссёр
+  - photographer
+  - director
 ---
-## Об авторе
-Полина Иониди (1994, Москва) — профессиональный фотограф, кинорежиссёр.
+## About the author
+Polina Ionidi (1994, Moscow) is a professional photographer and film director.
 
-> [!Quote] О себе
-> По образованию я врач, по призванию — художник. Фотографирую людей около 15 лет, ещё большее время — пейзажи, архитектуру и приглянувшиеся мне моменты из жизни. Чуть больше года назад сняла короткометражный фильм, а сейчас учусь в Московской школе нового кино на режиссёра. На мой взгляд, хорошая фотография может рассказать о человеке не меньше, чем целый роман. Я люблю создавать снимки вне времени и трендов, полагаясь на своё видение и чувствование.
+> [!Quote] About me
+> By education I am a doctor; by vocation, an artist. I have been photographing people for about 15 years, and even longer — landscapes, architecture, and moments from life that catch my eye. A little over a year ago I made a short film, and now I study directing at the Moscow School of New Cinema. In my view, a good photograph can tell about a person no less than an entire novel. I like creating images outside of time and trends, relying on my own vision and sensitivity.
 
-## Участие в журнале
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-### Награды
+## Journal participation
+- [[№ 8 (5)|Issue № 8 (5)]]
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
+## Contacts
 - https://ionidi-photo.ru/
-- [Подожди,я фокус наведу](https://t.me/pionnidi_tg) — тг-канал
+- [Wait, let me focus](https://t.me/pionnidi_tg) — Telegram channel
 - https://vk.com/ionidi_photo
