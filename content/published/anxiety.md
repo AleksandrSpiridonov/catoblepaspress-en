@@ -1,28 +1,28 @@
 ---
-title: Тревога дней
-description: Второй сборник стихов Евгения Лебедева
+title: Anxiety of Days
+description: Evgeny Lebedev’s second poetry collection
 aliases:
-  - Тревога дней
+  - Anxiety of Days
 ---
-# Тревога дней
+# Anxiety of Days
 ![[anxietyCover.webp]]
-## Выходные данные
-*Лебедев Е. А.* Тревога дней. СПб: Катоблепас, 2025  
+## Publication details
+*Lebedev, E. A.* Anxiety of Days. Saint Petersburg: Catoblepas, 2025.
 
-На обложке: Евгений Медведев, «Этюд», 2025.  
+Cover artwork: Evgeny Medvedev, "Study", 2025.
 
-Возрастное ограничение: 18+  
-Объем: 52 стр.  
-Автор: [[evglebedev|Евгений Лебедев]]  
-Художник: [[medvedevartist|Евгений Медведев]]  
-Издатель: [[asp|Александр Спиридонов-мл.]]  
-## Аннотация
-Тревога это ток.  
-Было время когда я был проводом.  
-Одинпятьсемьшестьвосемьнольнольнольнольнольноль, она приходила и возвращалась, каждые две сотых секунды ежедневно.  
-Этот сборник стенограмма тех дней.  
-## Читать
+Age rating: 18+  
+Length: 52 pages.  
+Author: [[evglebedev|Evgeny Lebedev]]  
+Artist: [[medvedevartist|Evgeny Medvedev]]  
+Publisher: [[asp|Aleksandr Spiridonov Jr.]]
+## Annotation
+Anxiety is current.  
+There was a time when I was a wire.  
+One-five-seven-six-eight-zero-zero-zero-zero-zero-zero, it came and returned every two hundredths of a second, every day.  
+This collection is a transcript of those days.
+## Read
 - [LitRes](https://www.litres.ru/book/evgeniy-lebedev-33296062/trevoga-dney-72148993/) — PDF
-- [Лебедев Е. А. Тревога дней](https://evglebedev.ru/docs/collection/anxiety/) — текст
-### Электронная версия
+- [Lebedev E. A. Anxiety of Days](https://evglebedev.ru/docs/collection/anxiety/) — text
+### Electronic version
 <iframe src="https://drive.google.com/file/d/1cUQT9xHBXY5RG9SAHUD-7A7oVCS5r6TV/preview" width="100%" height="600"></iframe>
