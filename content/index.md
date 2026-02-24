@@ -1,42 +1,47 @@
 ---
-title: Издательство «Катоблепас»
+title: Catoblepas Press
 aliases:
-  - Катоблепас
-  - «Катоблепас»
-  - Издательство «Катоблепас»
-description: Официальный сайт издательства и журнала «Катоблепас»
+  - Catoblepas
+  - "Catoblepas Press"
+description: Official website of Catoblepas Press and Journal
 tags:
 ---
-![[Medvedev E. City, 2018.webp|Город, 2018]]
-*[[medvedevartist|Евгений Медведев]] Город, 2018*
+![[Medvedev E. City, 2018.webp|City, 2018]]
+*[[medvedevartist|Evgeny Medvedev]] City, 2018*
  
-Добро пожаловать на сайт издательства и журнала «Катоблепас»!
+Welcome to the website of Catoblepas Press and Journal.
 
 > [!Quote] Si enim fallor, sum
-> Августин «О граде Божием», XI, 26 
-## О нас
-Экспериментальное инди-издательство «Катоблепас» основано в 2024 году [[asp|Александром Спиридоновым-мл.]]. Мы выпустили несколько поэтических [[published/index|книг]] в оформлении художника [[medvedevartist|Евгения Медведева]], одноименный [[journal/index|журнал]] нашего объединения, а также антологию Международной деканнале «[[voxcatoblepae|Vox Catoblepae]]».
-## Издания
-- [[evglebedev|Евгений Лебедев]] [[mistakes|Ошибки молодости]], 2024
-- [[evglebedev|Евгений Лебедев]] [[anxiety|Тревога дней]], 2025
-## Cтохастический журнал «Катоблепас»
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 2 (2)|Выпуск № 2 (2)]]
-- [[№ 3 (3)|Выпуск № 3 (3)]]
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
-- [[№ 21 (7)|Выпуск № 21 (7)]]
-## Проекты
-- [[bookclub|Книжный клуб]]
-- [[filmclub|Киноклуб]]
+> Augustine, *The City of God*, XI, 26
+
+## About us
+Catoblepas is an experimental independent press founded in 2024 by [[asp|Aleksandr Spiridonov Jr.]]. We have published several poetry [[published/index|books]] designed by artist [[medvedevartist|Evgeny Medvedev]], our collective’s [[journal/index|journal]], and the anthology of the international decannale "[[voxcatoblepae|Vox Catoblepae]]".
+
+## Books
+- [[evglebedev|Evgeny Lebedev]] [[mistakes|Mistakes of Youth]], 2024
+- [[evglebedev|Evgeny Lebedev]] [[anxiety|Anxiety of Days]], 2025
+
+## Catoblepas Stochastic Journal
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 2 (2)|Issue № 2 (2)]]
+- [[№ 3 (3)|Issue № 3 (3)]]
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 8 (5)|Issue № 8 (5)]]
+- [[№ 13 (6)|Issue № 13 (6)]]
+- [[№ 21 (7)|Issue № 21 (7)]]
+
+## Projects
+- [[bookclub|Book Club]]
+- [[filmclub|Film Club]]
 - [[voxcatoblepae|Vox Catoblepae]]
-- [[performancelecture|Экологическое стихосложение]]
-## Редакция
-- Собиратель и растворитель смыслов: [[asp|Александр Спиридонов-мл.]]
-- Адвайзер, хранитель межъязыкового хаоса: [[ylisse|Елизавета Калужская]]
-- Футурологический конгресс: [[xeniaspiridonova|Ксения Спиридонова]]
-## Контакты
+- [[performancelecture|Ecological Poetry Writing]]
+
+## Editorial team
+- Gatherer and dissolver of meanings: [[asp|Aleksandr Spiridonov Jr.]]
+- Advisor, keeper of interlingual chaos: [[ylisse|Elizaveta Kaluzhskaya]]
+- Futurological congress: [[xeniaspiridonova|Ksenia Spiridonova]]
+
+## Contacts
 - [telegram](https://t.me/catoblepaspress)
 - [e-mail](mailto:catoblepaspress@mail.ru)
-- Санкт-Петербург
+- Saint Petersburg
