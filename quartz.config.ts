@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Катоблепас",
+    pageTitle: "Catoblepas Press",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "ru-RU",
+    locale: "en-US",
     baseUrl: "en.catoblepaspress.ru",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
