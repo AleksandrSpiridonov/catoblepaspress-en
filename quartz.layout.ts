@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Telegram": "https://t.me/catoblepaspress",
     },
-    copyrightText: "© 2025 Издательство «Катоблепас»",
+    copyrightText: "© 2025 Catoblepas Press",
   }),
 }
 
@@ -19,7 +19,7 @@ export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ConditionalRender({
       component: Component.Breadcrumbs({
-        rootName: "Главная",
+        rootName: "Home",
       }),
       condition: (page) => page.fileData.slug !== "index",
     }),
@@ -116,7 +116,7 @@ export const defaultContentPageLayout: PageLayout = {
 // components for pages that display lists of pages  (e.g. tags or folders)
 export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs({
-    rootName: "Главная",
+    rootName: "Home",
   }), Component.ArticleTitle(), Component.ContentMeta({
     showReadingTime: false,
   })],
