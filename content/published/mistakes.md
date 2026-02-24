@@ -1,29 +1,29 @@
 ---
-title: Ошибки молодости
-Автор: "[[evglebedev]]"
-description: Первый сборник стихов Евгения Лебедева 'Ошибки молодости'. Картография поэтических порывов, закончившихся провалом.
+title: Mistakes of Youth
+author: "[[evglebedev]]"
+description: Evgeny Lebedev’s first poetry collection "Mistakes of Youth". A cartography of poetic impulses that ended in failure.
 aliases:
-  - Ошибки молодости
+  - Mistakes of Youth
 ---
-# Ошибки молодости
+# Mistakes of Youth
 ![[mistakesCover.webp]]
-## Выходные данные
-*Лебедев Е. А.* Ошибки молодости. Оформление Е. Медведева. СПб: Катоблепас, 2024
+## Publication details
+*Lebedev, E. A.* Mistakes of Youth. Design by E. Medvedev. Saint Petersburg: Catoblepas, 2024.
 
-На обложке: Евгений Медведев, два листа из серии «Жучки», 2024
+Cover artwork: Evgeny Medvedev, two sheets from the "Bugs" series, 2024.
 
-Возрастное ограничение: 18+  
-Объем: 32 стр. 
-Автор: [[evglebedev|Евгений Лебедев]]  
-Художник, автор шрифтов: [[medvedevartist|Евгений Медведев]]  
-Издатель: [[asp|Александр Спиридонов-мл.]]  
+Age rating: 18+  
+Length: 32 pages.  
+Author: [[evglebedev|Evgeny Lebedev]]  
+Artist, type designer: [[medvedevartist|Evgeny Medvedev]]  
+Publisher: [[asp|Aleksandr Spiridonov Jr.]]
 
-## Аннотация
-"Что было бы, если бы мы спустились в те загробные миры, где блуждают, среди теней младенцев, мертворожденные призвания, бесплодные порывы, личинки идей, не нашедших ни крыльев, ни форм, ибо желание — еще не власть, любовь — не обладание. Веры не достаточно, нужна благодать. В литературе, как в теологии, дела без милосердия — ничто".
+## Annotation
+"What if we descended into those afterworlds where, among the shades of infants, stillborn vocations wander: barren impulses, larvae of ideas that found neither wings nor form, for desire is not yet power, and love is not possession. Faith is not enough; grace is needed. In literature, as in theology, deeds without mercy are nothing."
 
-Картография поэтических порывов, закончившихся провалом.
-## Читать
+A cartography of poetic impulses that ended in failure.
+## Read
 - [LitRes](https://www.litres.ru/book/evgeniy-lebedev-33296062/oshibki-molodosti-71528653/) — PDF
-- [Лебедев Е. А. Ошибки молодости](https://evglebedev.ru/docs/collection/mistakes/) — текст
-### Электронная версия
+- [Lebedev E. A. Mistakes of Youth](https://evglebedev.ru/docs/collection/mistakes/) — text
+### Electronic version
 <iframe src="https://drive.google.com/file/d/12A8SHSEnoew6EPUscApkxGBtDBvAm--4/preview" width="100%" height="600"></iframe>
