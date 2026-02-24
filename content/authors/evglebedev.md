@@ -1,32 +1,37 @@
 ---
-title: Евгений Лебедев
+title: Evgeny Lebedev
 aliases:
-  - Евгений Лебедев
-description: Спекулятивный поэт
+  - Evgeny Lebedev
+description: Speculative poet
 tags:
-  - поэт
-  - фланёр
+  - poet
+  - flâneur
 ---
-## Об авторе
-Евгений Лебедев (1993, Санкт-Петербург) — спекулятивный поэт и фланёр. Выпускник философского факультета СПбГУ.
-### Биография
-Род. на окраинах Санкт-Петербурга.
+## About the author
+Evgeny Lebedev (1993, Saint Petersburg) is a speculative poet and flâneur. Graduate of the Faculty of Philosophy at Saint Petersburg State University.
 
-Будучи поклонником философии Анатолия Льда, прошел путь обратный Владимиру Соловьеву.
+### Biography
+Born on the outskirts of Saint Petersburg.
 
-Производит тонические стихоформы, экзотерик, пытается смириться с тем что Секрета нет.
-## Книги
-- [[mistakes|Ошибки молодости]], [[Издательство «Катоблепас»]] 2024
-- [[anxiety|Тревога дней]], 2025
-## Участие в журнале
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 2 (2)|Выпуск № 2 (2)]]
-- [[№ 3 (3)|Выпуск № 3 (3)]]
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
--  [[№ 21 (7)|Выпуск № 21 (7)]] — перевод [[fies|Мухи]]
-### Награды
+As an admirer of Anatoly Lyod’s philosophy, he followed a path opposite to Vladimir Solovyov.
+
+Creates tonic verse forms, an exoteric, trying to make peace with the fact that there is no Secret.
+
+## Books
+- [[mistakes|Mistakes of Youth]], [[published/index|Catoblepas Press]] 2024
+- [[anxiety|Anxiety of Days]], 2025
+
+## Journal participation
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 2 (2)|Issue № 2 (2)]]
+- [[№ 3 (3)|Issue № 3 (3)]]
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 13 (6)|Issue № 13 (6)]]
+- [[№ 21 (7)|Issue № 21 (7)]] — translation [[fies|Flies]]
+
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
+
+## Contacts
 - [evglebedev.ru](https://evglebedev.ru/)
-- [Последний экземпляр](https://t.me/posleex) — телеграм канал. Истоки приходят в конце.
+- [Last Copy](https://t.me/posleex) — Telegram channel. Sources arrive at the end.

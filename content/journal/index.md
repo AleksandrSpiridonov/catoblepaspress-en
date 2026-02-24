@@ -1,19 +1,20 @@
 ---
-title: Журнал
+title: Journal
 aliases:
-  - Журнал Катоблепас
-description: Стохастический журнал Катоблепас
+  - Catoblepas Journal
+description: Catoblepas Stochastic Journal
 tags:
 ---
-## Cтохастический журнал Катоблепас
-Выходит c 24 мая 2025 года в дигитальном формате и включает поэзию, прозу, эссе, иллюстрации и картины художников, короткий метр и авторскую музыку.
-### Номера стохастического журнал Катоблепас
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 2 (2)|Выпуск № 2 (2)]]
-- [[№ 3 (3)|Выпуск № 3 (3)]]
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
-- [[№ 21 (7)|Выпуск № 21 (7)]]
+## Catoblepas Stochastic Journal
+Published in digital format since May 24, 2025. Includes poetry, prose, essays, illustrations and paintings, short films, and original music.
+
+### Issues of the Catoblepas Stochastic Journal
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 2 (2)|Issue № 2 (2)]]
+- [[№ 3 (3)|Issue № 3 (3)]]
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 8 (5)|Issue № 8 (5)]]
+- [[№ 13 (6)|Issue № 13 (6)]]
+- [[№ 21 (7)|Issue № 21 (7)]]
 
 ![[authors/index|index]]

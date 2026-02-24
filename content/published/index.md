@@ -1,9 +1,9 @@
 ---
-title: Издания
-description: Книги издательства «Катоблепас»
+title: Books
+description: Books published by Catoblepas Press
 aliases:
-  - Издания
+  - Books
 ---
-## Издания
-- [[evglebedev|Евгений Лебедев]] [[mistakes|Ошибки молодости]], 2024
-- [[evglebedev|Евгений Лебедев]] [[anxiety|Тревога дней]], 2025
+## Books
+- [[evglebedev|Evgeny Lebedev]] [[mistakes|Mistakes of Youth]], 2024
+- [[evglebedev|Evgeny Lebedev]] [[anxiety|Anxiety of Days]], 2025

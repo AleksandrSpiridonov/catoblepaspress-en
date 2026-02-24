@@ -1,15 +1,15 @@
 ---
 aliases:
-  - Анна Ланцова
-title: Анна Ланцова
-description: Художник и поэт
+  - Anna Lantsova
+title: Anna Lantsova
+description: Artist and poet
 tags:
-  - художник
-  - поэт
+  - artist
+  - poet
 ---
-## Об авторе
-Анна Ланцова — художник по костюмам, поэт.
-## Участие в журнале
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-## Контакты
+## About the author
+Anna Lantsova is a costume artist and poet.
+## Journal participation
+- [[№ 5 (4)|Issue № 5 (4)]]
+## Contacts
 - https://t.me/chuftee

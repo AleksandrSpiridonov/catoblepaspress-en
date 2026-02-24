@@ -1,23 +1,25 @@
 ---
 aliases:
-  - Ксения Спиридонова
-title: Ксения Спиридонова
-description: Акварелист, художник-реставратор, керамист
+  - Ksenia Spiridonova
+title: Ksenia Spiridonova
+description: Watercolor artist, art restorer, ceramic artist
 tags:
-  - художник
-  - реставратор
-  - керамист
+  - artist
+  - restorer
+  - ceramic artist
 ---
-## О художнике
-Ксения Спиридонова (р. 1994, Санкт-Петербург) — профессиональный художник-реставратор, акварелист, керамист, член Санкт-Петербургского общества акварелистов. Работы находятся в музее Капеллы Санкт-Петербурга, в частных собраниях России и за рубежом.
-## Участие в журнале
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 2 (2)|Выпуск № 2 (2)]]
-- [[№ 3 (3)|Выпуск № 3 (3)]]
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
-## Контакты
+## About the artist
+Ksenia Spiridonova (b. 1994, Saint Petersburg) is a professional art restorer, watercolor artist, and ceramic artist, a member of the Saint Petersburg Society of Watercolorists. Her works are held in the Saint Petersburg Capella Museum and in private collections in Russia and abroad.
+
+## Journal participation
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 2 (2)|Issue № 2 (2)]]
+- [[№ 3 (3)|Issue № 3 (3)]]
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 13 (6)|Issue № 13 (6)]]
+
+## Contacts
 - [xeniaspiridonova.com](https://xeniaspiridonova.com/)
-- [TG: акварель](https://t.me/xeniaspiridonova)
-- [TG: керамика](https://t.me/xenia_spiridonova_ceramics)
-- [ВК: акварель](https://vk.com/xeniaspiridonova)
+- [TG: watercolor](https://t.me/xeniaspiridonova)
+- [TG: ceramics](https://t.me/xenia_spiridonova_ceramics)
+- [VK: watercolor](https://vk.com/xeniaspiridonova)

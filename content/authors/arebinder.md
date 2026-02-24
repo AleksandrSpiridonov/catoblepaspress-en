@@ -1,15 +1,16 @@
 ---
 aliases:
-  - Александра Рожковская
-title: Александра Рожковская
-description: Фотограф и видеограф
+  - Aleksandra Rozhkovskaya
+title: Aleksandra Rozhkovskaya
+description: Photographer and videographer
 tags:
-  - фотограф
-  - видеограф
+  - photographer
+  - videographer
 ---
-## Об авторе
-Александра Рожковская (1991, Санкт-Петербург) — фотограф, путешественник по жизни. Работает с аналоговой фотографией, фиксируя ускользающие моменты — тени, движение, изменчивые настроения, детали архитектуры. Её метод основан на поэтике случайного: каждый снимок возникает из цепи непредсказуемых событий и интуитивных решений.
-## Участие в журнале
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-- [[№ 8 (5)|Выпуск № 8 (5)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
+## About the author
+Aleksandra Rozhkovskaya (1991, Saint Petersburg) is a photographer and lifelong traveler. She works with analogue photography, capturing elusive moments—shadows, movement, changing moods, and architectural details. Her method is based on the poetics of chance: every image emerges from a chain of unpredictable events and intuitive decisions.
+
+## Journal participation
+- [[№ 5 (4)|Issue № 5 (4)]]
+- [[№ 8 (5)|Issue № 8 (5)]]
+- [[№ 13 (6)|Issue № 13 (6)]]

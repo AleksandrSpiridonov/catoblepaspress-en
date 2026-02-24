@@ -1,103 +1,106 @@
 ---
-title: Юрий Оленев
+title: Yury Olenev
 aliases:
-  - Юрий Оленев
-description: Философ, поэт, эссеист
+  - Yury Olenev
+description: Philosopher, poet, essayist
 tags:
-  - философ
-  - поэт
+  - philosopher
+  - poet
 ---
-## Об авторе
-Философ, поэт, эссеист. Выпускник философского факультета СПбГУ. Область интересов: история культуры, религия и мифология
+## About the author
+Philosopher, poet, essayist. Graduate of the Faculty of Philosophy at Saint Petersburg State University. Areas of interest: cultural history, religion, and mythology.
 
 ### Artist statement
-Слова как нить, слова как жгут  
-Сшивают раны, плетью жгут  
-Как мрачный лес закрывший путь  
-Ведут в туман, мороку, муть  
-  
-Из них плетем мы мира лик  
-Что льется в душу каждый миг  
-Как кот играется с клубком  
-Наш ум запутывается в нем  
-  
-Когда в пути теряем цель  
-И лес собою прячет ель  
-И забываем отчий дом  
-И кем когда-то были в нем  
-  
-Но ты — как я — хозяин слов  
-Ты им даешь приют и кров  
-Определяешь суть и вес  
-Он твой — весь этот странный лес  
-  
-Ты в нем судья и рулевой  
-Садовник и городовой  
-А я — такой же как и ты  
-Ломаю ветви и кусты  
-  
-Чтобы нащупать, отыскать  
-Свою тропу и вновь начать  
-В лесу не просто так блуждать  
-Но в нем увидеть и познать  
-  
-Его невиданный размах  
-И мощь корней и пенье птах  
-Узоров изощрённый бег  
-Покой камней, журчанье рек  
-  
-Чтобы развеять тот туман  
-В тебе и мне источник дан  
-Дар различения вещей  
-Ты без него — себе ничей  
-  
-Не уставай искать ответ  
-Не все всегда "да или нет"  
-Исследуй связь всего со всем  
-Откуда, что, как и зачем  
-  
-За всяким сущим имя есть  
-Что видишь здесь, что только весть  
-И за малейшею игрой  
-Того что видит разум твой  
-  
-Найти всему свои места  
-Корней, ствола, плода, листа  
-Связать течения всех дел  
-Твоя наука, власть, удел  
-  
-Слова — лишь кожа, но не плоть  
-Личина, но не мозг и кость.  
-Звучанием в душе звенит  
-Но лишь другой ее узрит  
-  
-За внешней речи пеленой  
-Ты ею прячешь жар и зной  
-Словами прячешь боль и страх  
-Словами строишь шок и крах  
-  
-Для жизни словно платье речь  
-Без искры ею не увлечь  
-И жизнь без речи сновно сон  
-Неуловим, бесплотен он  
-  
-Словами песен и поэм  
-Мы память чтим тех кто уж нем  
-В своих трактатах и трудах  
-Храним секреты звезд и трав  
-  
-Слова богаты и пусты  
-Будь щедр и скуп на них и ты  
-И поразишь сердца людей  
-Жемчужинами своих идей  
-## Участие в журнале
-- [[№ 1 (1)|Выпуск № 1 (1)]]
-- [[№ 13 (6)|Выпуск № 13 (6)]]
-- [[№ 21 (7)|Выпуск № 21 (7)]] — [[poetry|О поэзии]]
-### Награды
+Words as thread, words as cord  
+They stitch up wounds, they scorch like whips  
+Like a dark forest blocking the road  
+They lead to fog, delusion, mire  
+
+From them we weave the face of the world  
+That pours into the soul each moment  
+As a cat plays with a ball of yarn  
+Our mind gets tangled in it  
+
+When on the road we lose the goal  
+And forest hides the fir within itself  
+And we forget our native home  
+And who we were there once  
+
+But you — like me — are master of words  
+You give them shelter and a roof  
+You define their essence and their weight  
+It is yours — this whole strange forest  
+
+In it you are judge and helmsman  
+Gardener and watchman  
+And I — the same as you  
+Break branches and bushes  
+
+To feel, to find  
+My path and start again  
+Not merely wander in the forest  
+But see and know within it  
+
+Its unprecedented span  
+And power of roots and birdsong  
+The intricate run of patterns  
+The calm of stones, the murmur of rivers  
+
+To dispel that fog  
+In you and me the source is given  
+The gift of discerning things  
+Without it you belong to no one, even yourself  
+
+Do not tire of seeking an answer  
+Not everything is always “yes or no”  
+Explore the connection of everything with everything  
+Whence, what, how, and why  
+
+Everything that exists has a name  
+What you see here, what is only rumor  
+And behind the slightest play  
+Of what your mind can see  
+
+To find each thing its proper place  
+Of root, trunk, fruit, and leaf  
+To bind together all currents of deeds  
+Your science, power, and lot  
+
+Words are only skin, not flesh  
+A visage, not brain and bone.  
+By sound they ring in the soul  
+But only another will behold it  
+
+Behind the veil of outer speech  
+You hide with it heat and blaze  
+With words you hide pain and fear  
+With words you build shock and ruin  
+
+For life, speech is like clothing  
+Without a spark it cannot attract  
+And life without speech is like a dream  
+Elusive, bodiless it is  
+
+With words of songs and poems  
+We honor memory of those now silent  
+In our treatises and works  
+We keep the secrets of stars and herbs  
+
+Words are rich and empty  
+Be generous and sparing with them too  
+And you will strike people’s hearts  
+With pearls of your ideas  
+
+## Journal participation
+- [[№ 1 (1)|Issue № 1 (1)]]
+- [[№ 13 (6)|Issue № 13 (6)]]
+- [[№ 21 (7)|Issue № 21 (7)]] — [[poetry|On Poetry]]
+
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
+
+## Contacts
 - [vk.com/somebody15](https://vk.com/somebody15)
-- [Теология](https://vk.com/nekto15_theology)
-- [Алхимия](https://vk.com/nekto15_alchimestry)
-- [Визуальное](https://vk.com/nekto15_visual)
+- [Theology](https://vk.com/nekto15_theology)
+- [Alchemy](https://vk.com/nekto15_alchimestry)
+- [Visual](https://vk.com/nekto15_visual)

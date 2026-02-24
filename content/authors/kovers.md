@@ -1,25 +1,25 @@
 ---
 aliases:
-  - Константин Верстуков
-title: Константин Верстуков
-description: Писатель-фантаст, лингвист, создатель искусственного языка, автор цикла рассказов "Сага о двух Империях"
+  - Konstantin Verstukov
+title: Konstantin Verstukov
+description: Science fiction writer, linguist, creator of a constructed language, author of the short-story cycle “Saga of Two Empires”
 tags:
-  - писатель
-  - лингвист
+  - writer
+  - linguist
 ---
-## Об авторе
-Константин Верстуков (2001, Санкт-Петербург)— писатель-фантаст, лингвист, создатель собственного искусственного языка. Автор цикла рассказов "[Сага о двух Империях](https://litnet.com/ru/kovers-u10651270/stories)".
-## Участие в журнале
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-## Книги
-- Сага о двух Империях
-	- [Жизнь](https://author.today/work/480786), 2025
-	- [Изгнанные](https://author.today/work/423904), 2025
-	- [Предатель](https://author.today/work/379072), 2024
-	- [Рассвет](https://author.today/work/341220), 2023
-## Контакты
-- [ВК](https://vk.com/two_empires)
-- [ТГ](https://t.me/two_empires)
+## About the author
+Konstantin Verstukov (2001, Saint Petersburg) is a science fiction writer, linguist, and creator of his own constructed language. Author of the short-story cycle "[Saga of Two Empires](https://litnet.com/ru/kovers-u10651270/stories)".
+## Journal participation
+- [[№ 5 (4)|Issue № 5 (4)]]
+## Books
+- Saga of Two Empires
+  - [Life](https://author.today/work/480786), 2025
+  - [The Exiled](https://author.today/work/423904), 2025
+  - [The Traitor](https://author.today/work/379072), 2024
+  - [Dawn](https://author.today/work/341220), 2023
+## Contacts
+- [VK](https://vk.com/two_empires)
+- [TG](https://t.me/two_empires)
 - [Author.Today](https://author.today/u/two_empires/works)
-- [Литнет](https://litnet.com/ru/kovers-u10651270/stories)
-- [Дзен](https://dzen.ru/two_empires)
+- [Litnet](https://litnet.com/ru/kovers-u10651270/stories)
+- [Zen](https://dzen.ru/two_empires)

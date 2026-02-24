@@ -1,27 +1,30 @@
 ---
 aliases:
-  - Севак Погосян
-title: Севак Погосян
-description: Поэт, художник, иллюстратор и актер из Санкт-Петербурга
+  - Sevak Pogosyan
+title: Sevak Pogosyan
+description: Poet, artist, illustrator, and actor from Saint Petersburg
 tags:
-  - поэт
-  - художник
-  - актёр
+  - poet
+  - artist
+  - actor
 ---
-## Об авторе
-Севак Погосян (1994, Санкт-Петербург) — поэт, художник и актер из Санкт-Петербурга. 
+## About the author
+Sevak Pogosyan (1994, Saint Petersburg) is a poet, artist, and actor from Saint Petersburg.
 
 > [!QUOTE] Artist Statement
-> Мое творчество — диалог между различными формами самовыражения, рожденный в переплетении жизненных историй, повседневной рутины.  Творить начал в подмозках театра, где ни только воплощал различные образы, но и постигал классиков мировой литературы  в течении 13 лет. Художники, повлиявшие на моё творчество: Амадео Модильяни, Клод Моне, Эдуард Мане и Искусство Итальянского Возрождения XVI века.  Поэты повлиявшие на моё творчество: Александр Пушкин, Александр Блок, Владимир Маяковский.
+> My work is a dialogue between different forms of self-expression, born at the intersection of life stories and everyday routine. I began creating in the backstage spaces of theater, where for 13 years I not only embodied various roles but also studied the classics of world literature. Artists who influenced my work include Amedeo Modigliani, Claude Monet, Édouard Manet, and the Italian Renaissance art of the 16th century. Poets who shaped my work include Alexander Pushkin, Alexander Blok, and Vladimir Mayakovsky.
 >
->При работе над рисунками и живописной графикой использую широкий спектр материалов: от масляной пастели и акрила на льняном холсте до ручки-пера, карандашей, линеров и маркеров. В моём творчестве можно заметить мимолетные мгновения, городские хроники, похожие на застывшие кадры анимационного фильма или комикса.
+> In drawing and painterly graphics, I use a wide range of materials: from oil pastel and acrylic on linen canvas to dip pen, pencils, liners, and markers. In my work one can notice fleeting moments and urban chronicles, like frozen frames from an animation film or comic.
 >
->В моих графических работах, скетчах и худ. произведениях часто встречаются повторяющиеся мотивы, отражающие ежедневные будни обыкновенного поэта. Портреты родственников и друзей. И также немаловажно влияние Армянского языка, орнаментов, религии, музыки, поэзии серебряного века и архитектуры г. Санкт-Петербурга.
+> In my graphic works, sketches, and art pieces, recurring motifs often appear, reflecting the daily life of an ordinary poet. Portraits of family and friends are frequent, as is the influence of the Armenian language, ornaments, religion, music, Silver Age poetry, and the architecture of Saint Petersburg.
 >
->На данный момент циклично, работаю над рукописными книгами в которых встречается поэзия, переплетённая с иллюстрациями, фотоколлажами. Мои книги представляют собой смесь поэзии, визуального искусства и личных воспоминаний о любви, семье, близких и родных людях.
-## Участие в журнале
-- [[№ 5 (4)|Выпуск № 5 (4)]]
-### Награды
+> At present, I am working cyclically on handwritten books where poetry intertwines with illustrations and photo collages. My books are a blend of poetry, visual art, and personal memories of love, family, and close people.
+
+## Journal participation
+- [[№ 5 (4)|Issue № 5 (4)]]
+
+### Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
-- [ARIKURUKAME на vk.com](https://vk.com/club219969961)
+
+## Contacts
+- [ARIKURUKAME on vk.com](https://vk.com/club219969961)
