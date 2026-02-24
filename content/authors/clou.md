@@ -1,35 +1,35 @@
 ---
 aliases:
-  - Катя Клу
-title: Катя Клу
-description: Художница и поэтесса. В своей практике она обращается к темам памяти, пространства, телесности и повседневного опыта, исследуя, как личное переживание взаимодействует с историческим и социальным контекстом. Катя работает с текстом и визуальными образами в технике коллажа.
+  - Katya Clou
+title: Katya Clou
+description: Artist and poet. In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Katya works with text and visual imagery in collage techniques.
 tags:
-  - поэт
-  - художник
+  - poet
+  - artist
 ---
-## Об авторе
-Катя Клу — художница и поэтесса, живёт и работает в Париже. Лауреат [[voxcatoblepae|Vox Catoblepae]] 2025.
+## About the author
+Katya Clou is an artist and poet living and working in Paris. Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
 
-В своей практике она обращается к темам памяти, пространства, телесности и повседневного опыта, исследуя, как личное переживание взаимодействует с историческим и социальным контекстом. Катя работает с текстом и визуальными образами в технике коллажа.
+In her practice she engages with memory, space, embodiment, and everyday experience, exploring how personal experience interacts with historical and social context. Katya works with text and visual imagery in collage techniques.
 
-### Образование
-- Училище им. Н. К. Рериха, дизайн в архитектурно-пространственной среде.
-- Академия художеств имени И. Е. Репина, искусствоведческое отделение.
-- Сорбонна, магистр французской литературы.
+### Education
+- N.K. Roerich Art School, design in architectural-spatial environment.
+- I.E. Repin Academy of Arts, art history department.
+- Sorbonne, MA in French literature.
 
 ### Artist Statement
-Что остаётся от человека при смене политических режимов и стран?
-Как соотносятся личная память и память поколения?
-Где проходит граница между своим и чужим?
-Как телесный опыт влияет на конструкцию восприятия мира?
+What remains of a person when political regimes and countries change?
+How do personal memory and generational memory relate?
+Where is the boundary between one’s own and the other?
+How does embodied experience shape the construction of world perception?
 
-Эти вопросы сопровождают меня на протяжении всего жизненного пути и становятся основой моей художественной практики.
+These questions accompany me throughout my life and become the basis of my artistic practice.
 
-Мои тексты и визуальные работы — это своего рода ковёр, сотканный из образов, ритмов, ускорений и пауз. Фрагментарность здесь выступает не как разрыв, а как способ мышления и переживания реальности, возможность остановиться и прочувствовать ускользающий момент.
+My texts and visual works are a kind of carpet woven from images, rhythms, accelerations, and pauses. Fragmentation here is not rupture, but a way of thinking and experiencing reality — an opportunity to stop and feel a fleeting moment.
 
-Для меня искусство — это Янус, бог с двумя лицами, одновременно обращённый в прошлое и в будущее. Это безопасное пространство для постановки сложных вопросов, сомнения и исследования того, что не имеет однозначных ответов.
+For me, art is Janus, the two-faced god, turned simultaneously toward the past and the future. It is a safe space for asking difficult questions, for doubt, and for exploring what has no unambiguous answers.
 
-## Награды
+## Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
+## Contacts
 - [@seule_a_paris](https://www.instagram.com/seule_a_paris)

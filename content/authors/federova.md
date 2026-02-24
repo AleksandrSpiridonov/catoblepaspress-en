@@ -1,33 +1,32 @@
 ---
 aliases:
-  - Ксения Федорова
-title: Ксения Федорова
-description: Поэт. В своей практике исследует влияние технологий на наше восприятие мира и место человека в эпоху цифровых преобразований.
+  - Ksenia Fedorova
+title: Ksenia Fedorova
+description: Poet. In her practice she explores how technologies shape our perception of the world and the place of the human being in the era of digital transformations.
 tags:
-  - поэт
+  - poet
 ---
-## Об авторе
-Ксения Федорова (2005, Курган) — поэт. Лауреат [[voxcatoblepae|Vox Catoblepae]] 2025. В своей практике исследует влияние технологий на наше восприятие мира и место человека в эпоху цифровых преобразований. 
+## About the author
+Ksenia Fedorova (2005, Kurgan) is a poet. Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025. In her practice she explores how technologies influence our perception of the world and the place of the human in the era of digital transformation.
 
-### Биография
+### Biography
+Born in Kurgan, she became interested in poetry in childhood. In middle school she moved to Tyumen and for a long time lived between two cities.
 
-Родилась в городе Кургане, с детства увлекалась поэзией. В средней школе переехала в Тюмень, продолжительное время жила на два города. 
+In 2023, she entered a joint BA program of the School of Advanced Studies at the University of Tyumen and Don State Technical University.
 
-В 2023 году поступила в совместный бакалавриат Школы перспективных исследований Тюменского государственного университета и Донского государственного технического университета.
+She currently researches technologies and human–machine interactions. In her studies, she seeks answers to how technologies influence and reconfigure the “sensorium”[^1], and what it means to be Human in the contemporary world.
 
-В настоящее время занимается исследованиями технологий и человеко-машинных взаимодействий. В своих исследованиях ищет ответ на вопросы как технологии влияют и перестраивают «Сенсориум»[^1], и что такое Человек в современном мире.
 ### Artist statement
-
 > [!NOTE] Artist statement
-> Быть искренней — единственный принцип, которого я придерживаюсь в своей поэзии.
-> 
-> В академической деятельности я ищу ответ на вопрос «что есть Человек?», а в творчестве «что такое быть человеком?».  Очень субъективно, без шлифовки, «сыро», но искренне.
-> 
-> Стихи для меня — зеркало восприятия, документирование внутреннего диалога и ощущений. Я хочу показать в них всё то, что заставляет меня чувствовать и быть чувствительной. Это демонстрация уязвимости, которая, как мне кажется, во многом и отражает ту «человечность», которую я пытаюсь найти в профессиональной деятельности и творчестве.
+> Being sincere is the only principle I follow in my poetry.
+>
+> In academic work, I seek an answer to the question “What is a Human?”, and in creative work, “What does it mean to be human?”. Very subjective, unpolished, raw — but sincere.
+>
+> For me, poems are a mirror of perception, a documentation of inner dialogue and sensations. I want to show everything that makes me feel and be sensitive. It is a display of vulnerability, which, to me, largely reflects that “humanity” I am trying to find in both professional work and art.
 
-## Награды
+## Awards
 - [[voxcatoblepae|Vox Catoblepae]] 2025
-## Контакты
-- [Страница автора на Поэмбук](https://poembook.ru/id78920)
+## Contacts
+- [Author page on Poembook](https://poembook.ru/id78920)
 
-[^1]: Сенсориум — сенсорная система человека, комплекс органов чувств (зрение, слух, обоняние, осязание и другие), рассматриваемый как единое целое.
+[^1]: Sensorium — the human sensory system, the complex of sense organs (sight, hearing, smell, touch, and others) considered as a whole.
