@@ -18,7 +18,7 @@ As an admirer of Anatoly Lyod’s philosophy, he followed a path opposite to Vla
 Creates tonic verse forms, an exoteric, trying to make peace with the fact that there is no Secret.
 
 ## Books
-- [[mistakes|Mistakes of Youth]], [[Catoblepas Press]] 2024
+- [[mistakes|Mistakes of Youth]], [[published/index|Catoblepas Press]] 2024
 - [[anxiety|Anxiety of Days]], 2025
 
 ## Journal participation
