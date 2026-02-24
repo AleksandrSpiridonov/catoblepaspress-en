@@ -1,18 +1,21 @@
 ---
-title: Об издательстве
-description: Экспериментальное инди-издательство «Катоблепас»
+title: About the Press
+description: Catoblepas is an experimental independent press
 ---
 > [!Quote] Si enim fallor, sum
-> Августин «О граде Божием», XI, 26 
-## О нас
-Экспериментальное инди-издательство «Катоблепас» основано в 2024 году [[asp|Александром Спиридоновым-мл.]]. Мы выпустили несколько поэтических [[published/index|книг]] в оформлении художника [[medvedevartist|Евгения Медведева]], а также одноименный [[journal/index|журнал]] нашего объединения. 
-## Редакция
-- Собиратель и растворитель смыслов: [[asp|Александр Спиридонов-мл.]]
-- Адвайзер, хранитель межъязыкового хаоса: [[ylisse|Елизавета Калужская]]
-- Футурологический конгресс: [[xeniaspiridonova|Ксения Спиридонова]]
+> Augustine, *The City of God*, XI, 26
 
-![[editorialpolicy#Редакционная политика издательства и журнала «Катоблепас»|Редакционная политика]]
-## Контакты
+## About us
+Catoblepas is an experimental independent press founded in 2024 by [[asp|Aleksandr Spiridonov Jr.]]. We have published several poetry [[published/index|books]] designed by artist [[medvedevartist|Evgeny Medvedev]], as well as our collective’s [[journal/index|journal]].
+
+## Editorial team
+- Gatherer and dissolver of meanings: [[asp|Aleksandr Spiridonov Jr.]]
+- Advisor, keeper of interlingual chaos: [[ylisse|Elizaveta Kaluzhskaya]]
+- Futurological congress: [[xeniaspiridonova|Ksenia Spiridonova]]
+
+![[editorialpolicy#Editorial policy of Catoblepas Press and Journal|Editorial Policy]]
+
+## Contacts
 - [telegram](https://t.me/catoblepaspress)
 - [e-mail](mailto:spiridonovpress@mail.ru)
-- Санкт-Петербург
+- Saint Petersburg

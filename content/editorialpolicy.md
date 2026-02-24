@@ -1,11 +1,11 @@
 ---
 aliases:
-  - Редакционная политика
-title: Редакционная политика
-description: Редакционная политика издательства и журнала «Катоблепас»
+  - Editorial Policy
+title: Editorial Policy
+description: Editorial policy of Catoblepas Press and Journal
 tags:
 ---
-## Редакционная политика издательства и журнала «Катоблепас»
-Редакция издательства и журнала «Катоблепас» принимает к рассмотрению и публикации материалы, которые соответствуют этическим и юридическим нормам РФ и международного права. Мы категорически не принимаем публикации, содержащие призывы к насилию, пропаганду суицида, экстремизма, нарушение прав и свобод человека, а также другие материалы, противоречащие действующему законодательству.
+## Editorial policy of Catoblepas Press and Journal
+The editorial team of Catoblepas Press and Journal accepts submissions for review and publication that comply with ethical and legal norms of the Russian Federation and international law. We categorically do not accept materials containing calls for violence, promotion of suicide or extremism, violations of human rights and freedoms, or any other content that contradicts applicable law.
 
-Редакция не несет ответственности за содержание опубликованных авторских материалов, однако принимает меры к удалению или корректировке публикаций при обнаружении серьезных нарушений законодательства или этики.
+The editorial board is not responsible for the content of published author materials; however, we take measures to remove or revise publications if serious legal or ethical violations are identified.
