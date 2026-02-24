@@ -2,12 +2,12 @@
 aliases:
   - Due statuette, che sciocchezza...
 title: Due statuette, che sciocchezza...
-description: Стихотворение Елизаветы Калужской
+description: Poem by Elizaveta Kaluzhskaya
 tags:
-  - поэзия
+  - poetry
 ---
 ## Due statuette, che sciocchezza...
-[[ylisse|Елизавета Калужская]]
+[[ylisse|Elizaveta Kaluzhskaya]]
 
 Due statuette, che sciocchezza,  
 Nascoste in una scatola sotto il tavolo.  
@@ -28,5 +28,5 @@ Tra le rovine di quei selciati,
 Che il Tevere le nasconda,  
 E lavi via la loro traccia nel profondo dell’acqua sorda.  
 
-## Впервые опубликовано
-- [[№ 21 (7)|Выпуск № 21 (7)]]
+## First published in
+- [[№ 21 (7)|Issue № 21 (7)]]
