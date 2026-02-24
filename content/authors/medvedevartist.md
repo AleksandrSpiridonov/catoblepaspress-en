@@ -34,6 +34,7 @@ Currently, Evgeny Medvedev lives and works in Valsolda, Italy.
 - [[№ 3 (3)|Issue № 3 (3)]]
 - [[№ 5 (4)|Issue № 5 (4)]]
 - [[№ 13 (6)|Issue № 13 (6)]]
+- [[№ 21 (7)|Issue № 21 (7)]] — interview
 
 ## Publications
 - [Medvedev E. New Ideas in Visual Art, 2025](https://drive.google.com/file/d/1OdHTcToFmV3ydrjbUi3wKwxgRIBBTWo1/view)
