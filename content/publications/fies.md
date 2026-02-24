@@ -9,27 +9,27 @@ tags:
 # Flies
 Translated by [[evglebedev|Evgeny Lebedev]]
 
-On this day the flies woke up in the middle of a phrase  
-And trembled in bewilderment, lying on the windowsill to the sounds of speech  
-Only this is not speech but nonsense of rattling fragments  
-As if the speaker was shot mid-sentence  
+В этот день мухи проснулись на середине фразы  
+И ошеломленно дрожали лежа на подоконнике под звуки речи  
+Только это не речь, а бессмыслица из дребезжащих осколков  
+Будто говорящего застрелили на полуслове   
 
-This is one of those croaking days  
-When they, coming out of hibernation, fall hissing from curtains  
-The feeling tastes like a cigarette butt, as if they were just spat out of some charred world  
+Это один из тех каркучих дней   
+Когда они, выходят из зимней спячки, падают, шипя, с занавесок  
+Ощущение как вкус окурка, словно их только что выплюнули из какого-то  обугленного мира  
 
-But somehow they brought with them that ghost-black, shapeless question  
-What dirt should we visit first today?  
-What dirt should we visit again today?  
+Но каким-то образом, они принесли с собой этот призрачно-черный,  бесформенный, вопрос  
+Какую грязь нам следует посетить сегодня первой?  
+Какую грязь нам следует посетить сегодня вновь?   
 
-And they turn their faces to the past  
-look around briefly, trying to gather shards of their thoughts  
-but recover only meaningless words  
+И они обращают свои лица к прошлому  
+ненадолго озираются, в попытке, собрать осколки своих мыслей  
+но только возвращают себе ничего не значащие слова  
 
-Wherever we fly, this terrible buzzing is everywhere  
-It is impossible to think clearly until next winter  
-But what are we to do  
-Where can we find dirt? 
+Куда бы мы не полетели, везде это ужасное жужжанье  
+Уже невозможно ясно мыслить вплоть до следующей зимы  
+Но что же нам делать  
+Где нам найти грязь? 
 
 Translation of Alice Oswald’s poem from *Falling Awake* (2016), originally published on poetryfoundation.org with permission from W.W. Norton & Company, Inc.
 
