@@ -27,7 +27,8 @@ Now Marusya actively collaborates with musicians across genres and is working on
 
 ## Bibliography
 - Long poem “Dog Mole,” self-published, 2025
-
+## Music
+- Indie-pop group “bobok”, album [Thank You, Maria](https://zvonko.link/spasibomaria), 2026.
 ## Theatre
 - [Signa](https://signa.dk/projects_pid=111178.html) — [Playthings](https://oteatre.info/signa-zapiski-iz-vosmogo-doma/), 2019
 
