@@ -1,10 +1,12 @@
 ---
-title: Catoblepas Press
 aliases:
-  - Catoblepas
-  - "Catoblepas Press"
-description: Official website of Catoblepas Press and Journal
+  - Marusya Navka
+title: Marusya Navka
+description: Poet, punk, musician. Author of the poem “Dog Mole”
 tags:
+  - poet
+  - punk
+  - musician
 ---
 ![[Medvedev E. City, 2018.webp|City, 2018]]
 *[[medvedevartist|Evgeny Medvedev]] City, 2018*
@@ -18,6 +20,7 @@ Welcome to the website of Catoblepas Press and Journal.
 Catoblepas is an experimental independent press founded in 2024 by [[asp|Aleksandr Spiridonov Jr.]]. We have published several poetry [[published/index|books]] designed by artist [[medvedevartist|Evgeny Medvedev]], our collective’s [[journal/index|journal]], and the anthology of the international decannale "[[voxcatoblepae|Vox Catoblepae]]".
 
 ## Books
+- [[bellyinbelly|Marusya Navka]] 
 - [[evglebedev|Evgeny Lebedev]] [[mistakes|Mistakes of Youth]], 2024
 - [[evglebedev|Evgeny Lebedev]] [[anxiety|Anxiety of Days]], 2025
 
