@@ -1,12 +1,9 @@
 ---
 aliases:
-  - Marusya Navka
-title: Marusya Navka
-description: Poet, punk, musician. Author of the poem “Dog Mole”
+  - Catoblepas Press
+title: Catoblepas Press
+description: Catoblepas is an experimental independent press
 tags:
-  - poet
-  - punk
-  - musician
 ---
 ![[Medvedev E. City, 2018.webp|City, 2018]]
 *[[medvedevartist|Evgeny Medvedev]] City, 2018*
