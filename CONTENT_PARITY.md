@@ -1,6 +1,6 @@
 # Russian-to-English content parity
 
-This inventory records paths present on the Russian site but not yet present on the English site. They are not copied automatically: each public page must be translated and editorially reviewed before publication.
+This inventory records Russian-to-English page and structural parity. Pages are not copied automatically: each public page must be translated and editorially reviewed before publication.
 
 ## Partial translations
 
@@ -8,4 +8,4 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Current status
 
-All currently identified Russian-site pages have an English structural counterpart. _Almighty_ remains intentionally limited to an opening excerpt from Chapter 1.
+All currently identified Russian-site pages and homepage/project structures have an English counterpart. _Almighty_ remains intentionally limited to an opening excerpt from Chapter 1.

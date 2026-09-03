@@ -34,14 +34,55 @@ test("homepage offers the current English publishing and project routes", () => 
   const bookclub = readFileSync(join(process.cwd(), "content", "projects", "bookclub.md"), "utf8")
 
   assert.match(homepage, /title: Catoblepas Press/)
-  assert.match(homepage, /\[\[published\/index\|books\]\]/)
-  assert.match(homepage, /\[\[journal\/index\|journal\]\]/)
+  assert.match(homepage, /\[\[published\/index\|Publish books\]\]/)
+  assert.match(homepage, /\[\[journal\/index\|Publish a journal\]\]/)
   assert.match(homepage, /\[\[bookclub\|Book Club\]\]/)
   assert.match(homepage, /\[\[filmclub\|Film Club\]\]/)
-  assert.match(homepage, /## Contacts/)
-  assert.match(bookclub, /## Book list/)
+  assert.match(homepage, /## Follow and Contact Us/)
+  assert.match(bookclub, /## Book List/)
   assert.match(bookclub, /## Join/)
   assert.match(bookclub, /Telegram chat/)
+})
+
+test("homepage and club pages mirror the current Russian information structure", () => {
+  const home = readFileSync(join(process.cwd(), "content", "index.md"), "utf8")
+  const about = readFileSync(join(process.cwd(), "content", "about.md"), "utf8")
+  const bookclub = readFileSync(join(process.cwd(), "content", "projects", "bookclub.md"), "utf8")
+  const filmclub = readFileSync(join(process.cwd(), "content", "projects", "filmclub.md"), "utf8")
+  const viewer = readFileSync(join(process.cwd(), "quartz", "static", "viewer.js"), "utf8")
+  const ci = readFileSync(join(process.cwd(), ".github", "workflows", "ci.yaml"), "utf8")
+  const preview = readFileSync(
+    join(process.cwd(), ".github", "workflows", "build-preview.yaml"),
+    "utf8",
+  )
+  const deploy = readFileSync(join(process.cwd(), ".github", "workflows", "deploy.yml"), "utf8")
+  const dockerfile = readFileSync(join(process.cwd(), "Dockerfile"), "utf8")
+
+  assert.match(home, /\[!abstract\] Now at Catoblepas/)
+  assert.match(
+    home,
+    /<em><a href="\.\/medvedevartist" class="internal">Evgeny Medvedev<\/a>, City, 2018<\/em>/,
+  )
+  assert.match(home, /!\[\[published\/editions\.base\]\]/)
+  assert.match(home, /\[\[№ 55 \(9\)\|Issue № 55 \(9\)\]\]/)
+  assert.match(home, /publications\/translations\/limite\/index/)
+  assert.match(home, /youtube\.com\/@catoblepaspress/)
+  assert.match(home, /mailto:vox@catoblepaspress\.ru/)
+  assert.match(about, /mailto:ungh@catoblepaspress\.ru/)
+  assert.match(about, /mailto:vox@catoblepaspress\.ru/)
+  assert.match(bookclub, /## Next Meeting/)
+  assert.match(bookclub, /\|\s+27\s+\| _Flaubert’s Parrot_/)
+  assert.match(filmclub, /## Next Meeting/)
+  assert.match(filmclub, /\|\s+43\s+\| _Sans Soleil_/)
+  assert.match(filmclub, /publications\/translations\/limite\/index/)
+  assert.doesNotMatch(bookclub, /[А-Яа-яЁё]/)
+  assert.doesNotMatch(filmclub, /[А-Яа-яЁё]/)
+  assert.doesNotMatch(viewer, /[А-Яа-яЁё]/)
+  assert.match(ci, /branches:\s*\n\s*- v4/)
+  assert.doesNotMatch(ci, /jackyzha0\/quartz/)
+  assert.doesNotMatch(preview, /jackyzha0\/quartz/)
+  assert.match(deploy, /branches:\s*\n\s*- v4/)
+  assert.match(dockerfile, /RUN npm ci && npx quartz plugin install/)
 })
 
 test("English legal and contact navigation mirrors the current site structure", () => {
@@ -108,7 +149,10 @@ test("English interviews index links only to translated interview routes", () =>
 })
 
 test("English footer contains no Russian or obsolete cookie controls", () => {
-  const footer = readFileSync(join(process.cwd(), "quartz", "components", "CustomFooter.tsx"), "utf8")
+  const footer = readFileSync(
+    join(process.cwd(), "quartz", "components", "CustomFooter.tsx"),
+    "utf8",
+  )
   assert.match(footer, /Created by/)
   assert.doesNotMatch(footer, /Создано|О cookie|cookie-settings/)
 })
@@ -127,8 +171,14 @@ test("English journal index includes the current translated issues", () => {
 })
 
 test("Almighty is published as a clearly labelled Chapter 1 excerpt", () => {
-  const almighty = readFileSync(join(process.cwd(), "content", "publications", "almighty.md"), "utf8")
-  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
+  const almighty = readFileSync(
+    join(process.cwd(), "content", "publications", "almighty.md"),
+    "utf8",
+  )
+  const publications = readFileSync(
+    join(process.cwd(), "content", "publications", "index.md"),
+    "utf8",
+  )
 
   assert.match(almighty, /description: A science-fiction novella — an excerpt from Chapter 1/)
   assert.match(almighty, /## Chapter 1/)
@@ -139,27 +189,50 @@ test("Almighty is published as a clearly labelled Chapter 1 excerpt", () => {
 })
 
 test("The Bridge on the Drina review is translated and linked from the English site", () => {
-  const review = readFileSync(join(process.cwd(), "content", "publications", "thebridgeonthedrina.md"), "utf8")
-  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
+  const review = readFileSync(
+    join(process.cwd(), "content", "publications", "thebridgeonthedrina.md"),
+    "utf8",
+  )
+  const publications = readFileSync(
+    join(process.cwd(), "content", "publications", "index.md"),
+    "utf8",
+  )
   const bookclub = readFileSync(join(process.cwd(), "content", "projects", "bookclub.md"), "utf8")
 
   assert.match(review, /Filipp Dvornik, 13 May 2026/)
   assert.match(review, /Every generation nourishes its own illusions about civilization/)
   assert.match(review, /And at last came 1914/)
   assert.match(review, /translated into English for this publication/)
-  assert.match(publications, /Filipp Dvornik — \[\[thebridgeonthedrina\|The Bridge on the Drina\]\]/)
+  assert.match(
+    publications,
+    /Filipp Dvornik — \[\[thebridgeonthedrina\|The Bridge on the Drina\]\]/,
+  )
   assert.match(bookclub, /\[\[thebridgeonthedrina\\\|The Bridge on the Drina\]\]/)
 })
 
 test("The English Limite collection contains eight translations and links to the UFRGS biography", () => {
-  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
-  const translations = readFileSync(join(process.cwd(), "content", "publications", "translations", "index.md"), "utf8")
-  const limite = readFileSync(join(process.cwd(), "content", "publications", "translations", "limite", "index.md"), "utf8")
+  const publications = readFileSync(
+    join(process.cwd(), "content", "publications", "index.md"),
+    "utf8",
+  )
+  const translations = readFileSync(
+    join(process.cwd(), "content", "publications", "translations", "index.md"),
+    "utf8",
+  )
+  const limite = readFileSync(
+    join(process.cwd(), "content", "publications", "translations", "limite", "index.md"),
+    "utf8",
+  )
   const limiteDir = join(process.cwd(), "content", "publications", "translations", "limite")
-  const translatedArticles = readdirSync(limiteDir).filter((name) => name.endsWith(".md") && name !== "index.md")
+  const translatedArticles = readdirSync(limiteDir).filter(
+    (name) => name.endsWith(".md") && name !== "index.md",
+  )
 
   assert.match(publications, /\[\[publications\/translations\/index\|Translations\]\]/)
-  assert.match(translations, /\[\[publications\/translations\/limite\/index\|Materials on Mário Peixoto’s film Limite\]\]/)
+  assert.match(
+    translations,
+    /\[\[publications\/translations\/limite\/index\|Materials on Mário Peixoto’s film Limite\]\]/,
+  )
   assert.equal(translatedArticles.length, 8)
   assert.match(limite, /ufrgs\.br\/mariopeixoto\/en\/biography/)
   assert.match(limite, /rather than duplicate it here/)
@@ -168,12 +241,21 @@ test("The English Limite collection contains eight translations and links to the
 
 test("English books catalogue mirrors current editions and ordering status", () => {
   const books = readFileSync(join(process.cwd(), "content", "published", "index.md"), "utf8")
-  const medvedev = readFileSync(join(process.cwd(), "content", "published", "new-ideas-in-art.md"), "utf8")
-  const lePetit = readFileSync(join(process.cwd(), "content", "published", "lebordeldesmuses.md"), "utf8")
+  const medvedev = readFileSync(
+    join(process.cwd(), "content", "published", "new-ideas-in-art.md"),
+    "utf8",
+  )
+  const lePetit = readFileSync(
+    join(process.cwd(), "content", "published", "lebordeldesmuses.md"),
+    "utf8",
+  )
   const biasTape = readFileSync(join(process.cwd(), "content", "published", "biastape.md"), "utf8")
   const anxiety = readFileSync(join(process.cwd(), "content", "published", "anxiety.md"), "utf8")
   const mistakes = readFileSync(join(process.cwd(), "content", "published", "mistakes.md"), "utf8")
-  const editions = readFileSync(join(process.cwd(), "content", "published", "editions.base"), "utf8")
+  const editions = readFileSync(
+    join(process.cwd(), "content", "published", "editions.base"),
+    "utf8",
+  )
 
   assert.match(books, /!\[\[editions\.base\]\]/)
   assert.match(books, /\[\[new-ideas-in-art\|New Ideas in Visual Art/)
@@ -187,7 +269,10 @@ test("English books catalogue mirrors current editions and ordering status", () 
   assert.match(biasTape, /\[!info\] How to order/)
   assert.match(biasTape, /kosaya-beyka-74111291/)
   assert.match(biasTape, /\[!warning\] 18\+/)
-  assert.match(biasTape, /\[\[interviews\/marusya-navka-kosaya-beyka\|interview with Marusya Navka\]\]/)
+  assert.match(
+    biasTape,
+    /\[\[interviews\/marusya-navka-kosaya-beyka\|interview with Marusya Navka\]\]/,
+  )
   assert.doesNotMatch(biasTape, /420 RUB/)
   assert.match(anxiety, /author: Evgeny Lebedev/)
   assert.match(anxiety, /year: 2025/)

@@ -6,7 +6,7 @@
 - The existing English `content/` is preserved during the framework migration.
 - Missing English pages will be translated in later, reviewable batches.
 - Deployment targets GitHub Pages only. There is no Fair deployment for the English site.
-- The existing `v4` branch remains the rollback point until the Quartz 5 build is verified.
+- The existing `v4` branch remains the production and pull-request target. The pre-migration commit remains the rollback point in Git history until the Quartz 5 build is verified in production.
 
 ## Migration scope
 
