@@ -20,16 +20,8 @@ const CustomFooter: QuartzComponentConstructor<Options> = (opts) => {
         </ul>
       </div>
       <p>
-        Создано <a href="/authors/asp">А. А. Спиридоновым-мл.</a> с помощью{" "}
+        Created by <a href="/authors/asp">Aleksandr Spiridonov Jr.</a> with{" "}
         <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a>
-        {" · "}
-        <button
-          id="cookie-settings"
-          type="button"
-          class="cookie-settings"
-        >
-          О cookie
-        </button>
       </p>
     </footer>
   )

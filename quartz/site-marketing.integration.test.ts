@@ -69,3 +69,26 @@ test("English legal and contact navigation mirrors the current site structure", 
   )
   assert.match(robots, /https:\/\/en\.catoblepaspress\.ru\/sitemap\.xml/)
 })
+
+test("English interviews index links only to translated interview routes", () => {
+  const interviews = readFileSync(join(process.cwd(), "content", "interviews", "index.md"), "utf8")
+  const lebedev = readFileSync(
+    join(process.cwd(), "content", "interviews", "evgeny-lebedev-poetry.md"),
+    "utf8",
+  )
+
+  assert.match(interviews, /title: Interviews/)
+  assert.match(interviews, /\[\[evgeny-lebedev-poetry\|“I would prefer/)
+  assert.doesNotMatch(interviews, /\[\[evgeny-medvedev-artistic-perception\|/)
+  assert.doesNotMatch(interviews, /\[\[marusya-navka-kosaya-beyka\|/)
+  assert.match(lebedev, /youtube-nocookie\.com\/embed\/QFdVHm2m6Yw/)
+  assert.match(lebedev, /\[\[№ 21 \(7\)\|issue 21\]\]/)
+  assert.match(lebedev, /\[\[mistakes\|Mistakes of Youth\]\]/)
+  assert.match(lebedev, /Interview by \[\[asp\|Aleksandr Spiridonov Jr\.\]\]/)
+})
+
+test("English footer contains no Russian or obsolete cookie controls", () => {
+  const footer = readFileSync(join(process.cwd(), "quartz", "components", "CustomFooter.tsx"), "utf8")
+  assert.match(footer, /Created by/)
+  assert.doesNotMatch(footer, /Создано|О cookie|cookie-settings/)
+})
