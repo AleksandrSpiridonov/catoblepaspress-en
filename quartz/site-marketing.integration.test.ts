@@ -76,15 +76,26 @@ test("English interviews index links only to translated interview routes", () =>
     join(process.cwd(), "content", "interviews", "evgeny-lebedev-poetry.md"),
     "utf8",
   )
+  const medvedev = readFileSync(
+    join(process.cwd(), "content", "interviews", "evgeny-medvedev-artistic-perception.md"),
+    "utf8",
+  )
 
   assert.match(interviews, /title: Interviews/)
   assert.match(interviews, /\[\[evgeny-lebedev-poetry\|“I would prefer/)
-  assert.doesNotMatch(interviews, /\[\[evgeny-medvedev-artistic-perception\|/)
+  assert.match(interviews, /\[\[evgeny-medvedev-artistic-perception\|/)
   assert.doesNotMatch(interviews, /\[\[marusya-navka-kosaya-beyka\|/)
   assert.match(lebedev, /youtube-nocookie\.com\/embed\/QFdVHm2m6Yw/)
   assert.match(lebedev, /\[\[№ 21 \(7\)\|issue 21\]\]/)
   assert.match(lebedev, /\[\[mistakes\|Mistakes of Youth\]\]/)
   assert.match(lebedev, /Interview by \[\[asp\|Aleksandr Spiridonov Jr\.\]\]/)
+  assert.match(medvedev, /t\.me\/catoblepaspress\/175\?embed=1/)
+  assert.match(medvedev, /\[\[№ 21 \(7\)\|issue 21\]\]/)
+  assert.match(medvedev, /\[\[medvedevartist\|Evgeny Medvedev\]\]/)
+  assert.match(medvedev, /## The Academy as a space for self-education/)
+  assert.match(medvedev, /## The search for new possibilities/)
+  assert.match(medvedev, /New Ideas in Visual Art/)
+  assert.doesNotMatch(medvedev, /\[\[new-ideas-in-art\|/)
 })
 
 test("English footer contains no Russian or obsolete cookie controls", () => {

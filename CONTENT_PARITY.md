@@ -4,7 +4,6 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Interviews
 
-- `content/interviews/evgeny-medvedev-artistic-perception.md`
 - `content/interviews/marusya-navka-kosaya-beyka.md`
 
 ## Journal issues
