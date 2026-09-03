@@ -9,7 +9,7 @@ COPY package-lock.json* .
 COPY .npmrc* .
 COPY quartz/ ./quartz/
 COPY quartz.lock.json* .
-RUN npm ci && npx quartz plugin install
+RUN npm ci && npm run install-plugins
 
 FROM node:22-slim
 WORKDIR /usr/src/app

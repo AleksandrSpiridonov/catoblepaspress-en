@@ -1,3 +1,5 @@
 public
 node_modules
 .quartz-cache
+# Obsidian Markdown uses trailing spaces and wikilinks whose rendering can be changed by Prettier.
+content/**/*.md

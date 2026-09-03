@@ -82,7 +82,9 @@ test("homepage and club pages mirror the current Russian information structure",
   assert.doesNotMatch(ci, /jackyzha0\/quartz/)
   assert.doesNotMatch(preview, /jackyzha0\/quartz/)
   assert.match(deploy, /branches:\s*\n\s*- v4/)
-  assert.match(dockerfile, /RUN npm ci && npx quartz plugin install/)
+  assert.match(ci, /run: npm run install-plugins/)
+  assert.match(preview, /run: npm run install-plugins/)
+  assert.match(dockerfile, /RUN npm ci && npm run install-plugins/)
 })
 
 test("English legal and contact navigation mirrors the current site structure", () => {
