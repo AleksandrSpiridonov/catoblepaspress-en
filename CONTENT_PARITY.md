@@ -4,7 +4,6 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Publications and published editions
 
-- `content/publications/almighty.md`
 - `content/publications/thebridgeonthedrina.md`
 - `content/published/editions.base`
 - `content/published/lebordeldesmuses.md`
@@ -31,6 +30,10 @@ This inventory records paths present on the Russian site but not yet present on 
 - `content/images/limite-p02-photo.webp`
 - `content/images/limite-p16-photo.webp`
 - `content/images/novye-idei-v-iskusstve-book-mockup-square.webp`
+
+## Partial translations
+
+- `content/publications/almighty.md` — opening excerpt from Chapter 1; complete translation available on enquiry
 
 ## Recommended translation batches
 

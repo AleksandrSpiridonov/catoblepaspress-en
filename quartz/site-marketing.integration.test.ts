@@ -125,3 +125,15 @@ test("English journal index includes the current translated issues", () => {
   assert.match(issue55, /data-telegram-post="catoblepaspress\/247"/)
   assert.match(issue55, /\[\[biastape\|Bias Tape\]\]/)
 })
+
+test("Almighty is published as a clearly labelled Chapter 1 excerpt", () => {
+  const almighty = readFileSync(join(process.cwd(), "content", "publications", "almighty.md"), "utf8")
+  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
+
+  assert.match(almighty, /description: A science-fiction novella — an excerpt from Chapter 1/)
+  assert.match(almighty, /## Chapter 1/)
+  assert.match(almighty, /Several weeks ago, Almighty disappeared\./)
+  assert.match(almighty, /mailto:ungh@catoblepaspress\.ru/)
+  assert.match(almighty, /translating or licensing the complete novella/)
+  assert.match(publications, /\[\[almighty\|Almighty\]\] \(excerpt from Chapter 1\)/)
+})
