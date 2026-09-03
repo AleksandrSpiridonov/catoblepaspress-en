@@ -84,7 +84,12 @@ test("homepage and club pages mirror the current Russian information structure",
   assert.match(deploy, /branches:\s*\n\s*- v5/)
   assert.match(ci, /run: npm run install-plugins/)
   assert.match(preview, /run: npm run install-plugins/)
+  assert.match(ci, /run: node quartz\/bootstrap-cli\.mjs build --bundleInfo -d docs/)
+  assert.match(preview, /run: node quartz\/bootstrap-cli\.mjs build -d docs -v/)
+  assert.match(deploy, /run: node quartz\/bootstrap-cli\.mjs build/)
+  assert.doesNotMatch(`${ci}\n${preview}\n${deploy}`, /run: npx quartz build/)
   assert.match(dockerfile, /RUN npm ci && npm run install-plugins/)
+  assert.match(dockerfile, /CMD \["node", "quartz\/bootstrap-cli\.mjs", "build", "--serve"\]/)
 })
 
 test("English legal and contact navigation mirrors the current site structure", () => {
