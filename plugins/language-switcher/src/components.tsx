@@ -43,7 +43,7 @@ export const LanguageSwitcher: QuartzComponentConstructor<Options> = (opts) => {
 
     return (
       <a
-        aria-label={isEnglishSite ? "Перейти на русскую версию" : "Switch to English"}
+        aria-label={isEnglishSite ? "Switch to Russian" : "Switch to English"}
         class={`${displayClass ?? ""} language-switcher`.trim()}
         href={targetUrl.toString()}
       >

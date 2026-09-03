@@ -33,7 +33,7 @@ const LanguageSwitcher = (opts) => {
     targetUrl.pathname = slug === "index" ? `${basePath}/` : `${basePath}/${slug}`
 
     return jsx("a", {
-      "aria-label": isEnglishSite ? "Перейти на русскую версию" : "Switch to English",
+      "aria-label": isEnglishSite ? "Switch to Russian" : "Switch to English",
       class: `${displayClass ?? ""} language-switcher`.trim(),
       href: targetUrl.toString(),
       children: isEnglishSite ? "RU" : "EN",
