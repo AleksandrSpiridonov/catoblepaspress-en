@@ -112,3 +112,16 @@ test("English footer contains no Russian or obsolete cookie controls", () => {
   assert.match(footer, /Created by/)
   assert.doesNotMatch(footer, /Создано|О cookie|cookie-settings/)
 })
+
+test("English journal index includes the current translated issues", () => {
+  const journal = readFileSync(join(process.cwd(), "content", "journal", "index.md"), "utf8")
+  const issue34 = readFileSync(join(process.cwd(), "content", "journal", "№ 34 (8).md"), "utf8")
+  const issue55 = readFileSync(join(process.cwd(), "content", "journal", "№ 55 (9).md"), "utf8")
+
+  assert.match(journal, /\[\[№ 34 \(8\)\|Issue № 34 \(8\)\]\]/)
+  assert.match(journal, /\[\[№ 55 \(9\)\|Issue № 55 \(9\)\]\]/)
+  assert.match(issue34, /data-telegram-post="catoblepaspress\/189"/)
+  assert.match(issue34, /description: Thirty-fourth issue/)
+  assert.match(issue55, /data-telegram-post="catoblepaspress\/247"/)
+  assert.match(issue55, /\[\[biastape\|Bias Tape\]\]/)
+})

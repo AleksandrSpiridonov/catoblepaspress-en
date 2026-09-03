@@ -2,11 +2,6 @@
 
 This inventory records paths present on the Russian site but not yet present on the English site. They are not copied automatically: each public page must be translated and editorially reviewed before publication.
 
-## Journal issues
-
-- `content/journal/№ 34 (8).md`
-- `content/journal/№ 55 (9).md`
-
 ## Publications and published editions
 
 - `content/publications/almighty.md`
