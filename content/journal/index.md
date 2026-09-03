@@ -16,5 +16,7 @@ Published in digital format since May 24, 2025. Includes poetry, prose, essays, 
 - [[№ 8 (5)|Issue № 8 (5)]]
 - [[№ 13 (6)|Issue № 13 (6)]]
 - [[№ 21 (7)|Issue № 21 (7)]]
+- [[№ 34 (8)|Issue № 34 (8)]]
+- [[№ 55 (9)|Issue № 55 (9)]]
 
 ![[authors/index|index]]

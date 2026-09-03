@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.inFolder("published")
+    - file.ext == "md"
+    - file.name != "index"
+    - file.hasProperty("author")
+formulas:
+  book: link(file.path, note.title)
+properties:
+  formula.book:
+    displayName: Title
+  author:
+    displayName: Author
+  year:
+    displayName: Year
+  status:
+    displayName: Status
+  formats:
+    displayName: Formats
+views:
+  - type: cards
+    name: Cards
+    order:
+      - author
+      - year
+      - status
+      - formats
+    sort:
+      - property: year
+        direction: DESC
+    image: note.cover
+    imageAspectRatio: 1
+    imageFit: contain
+    cardSize: 230
+  - type: table
+    name: Table
+    order:
+      - formula.book
+      - author
+      - year
+      - status
+      - formats
+    sort:
+      - property: year
+        direction: DESC

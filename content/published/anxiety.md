@@ -3,6 +3,13 @@ title: Anxiety of Days
 description: Evgeny Lebedev’s second poetry collection
 aliases:
   - Anxiety of Days
+author: Evgeny Lebedev
+year: 2025
+status: Published
+formats:
+  - Online
+  - PDF
+cover: "https://en.catoblepaspress.ru/images/anxietyCover.webp"
 ---
 # Anxiety of Days
 ![[anxietyCover.webp]]

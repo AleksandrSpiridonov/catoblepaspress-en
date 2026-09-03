@@ -5,7 +5,9 @@ title: Vox Catoblepae
 description: International Decannale Anthology
 tags:
 ---
+
 ## Anthology of the International Decannale Vox Catoblepae 2025
+
 <script async src=https://telegram.org/js/telegram-widget.js?22
         data-telegram-post=catoblepaspress/152
         data-width=100%></script>
@@ -43,11 +45,13 @@ The anthology presentation will take place online on Monday, December 22, 2025 a
 The next anthology is planned for December 2035. Submissions are open until November 1, 2035 at catoblepaspress@mail.ru.
 
 ## OPEN CALL Vox Catoblepae
+
 Catoblepas Press and Journal announce an open call for poetry and short prose in audio and video formats.
 
 The best works will be included in the online anthology Vox Catoblepae on the publisher’s website, and authors will receive personal pages and a community of peers.
 
 ### Participation rules
+
 - Record an audio or video (up to 3 minutes) featuring your original text: a poem, essay, prose fragment, micro-play, or literary experiment.
 - Theme cloud: chaos, chance, multilingualism, blurred meanings.
 - Submissions in Russian and any other languages are welcome.
@@ -56,7 +60,8 @@ The best works will be included in the online anthology Vox Catoblepae on the pu
 Tell us a few words about yourself in the email.
 
 ### Dates
+
 Submission period: November 7 — December 7, 2025 (inclusive).  
 Online anthology publication by: December 24, 2025.
 
-![[editorialpolicy#Editorial policy of Catoblepas Press and Journal|Editorial Policy]]
+![[documents/editorialpolicy#Editorial Policy of Catoblepas Press and Journal|Editorial Policy]]
