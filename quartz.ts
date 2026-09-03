@@ -1,0 +1,68 @@
+import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
+import * as ExternalPlugin from "./.quartz/plugins"
+import CustomFooter from "./quartz/components/CustomFooter"
+import LegacyOgImage from "./quartz/components/LegacyOgImage"
+import { componentRegistry } from "./quartz/components/registry"
+import type { ExplorerOptions } from "@quartz-community/explorer"
+
+const priorityOrder: Record<string, number> = {
+  "Book Club": 1,
+  "Film Club": 2,
+  About: 3,
+  Contacts: 4,
+  Documents: 5,
+}
+
+const sortExplorerEntries: NonNullable<ExplorerOptions["sortFn"]> = (a, b) => {
+  if (a.isFolder !== b.isFolder) {
+    return a.isFolder ? -1 : 1
+  }
+
+  const aName = a.displayName ?? ""
+  const bName = b.displayName ?? ""
+  const priorityDifference =
+    (priorityOrder[aName] ?? Number.MAX_SAFE_INTEGER) -
+    (priorityOrder[bName] ?? Number.MAX_SAFE_INTEGER)
+
+  return (
+    priorityDifference ||
+    aName.localeCompare(bName, "en", {
+      numeric: true,
+      sensitivity: "base",
+    })
+  )
+}
+
+ExternalPlugin.Explorer({
+  sortFn: sortExplorerEntries,
+})
+
+componentRegistry.setOptionOverrides("@quartz-community/og-image", {
+  colorScheme: "darkMode",
+  readingTimeText: () => "",
+  imageStructure: LegacyOgImage,
+})
+
+const footer = CustomFooter({
+  copyrightText: "© 2025–2026 Catoblepas Press",
+  links: {
+    Telegram: "https://t.me/catoblepaspress",
+    Documents: "/documents",
+  },
+})
+
+const layoutOverrides = {
+  defaults: {
+    footer: [footer],
+  },
+  byPageType: {
+    content: { footer: [footer] },
+    folder: { footer: [footer] },
+    tag: { footer: [footer] },
+    "404": { footer: [footer] },
+  },
+}
+
+const config = await loadQuartzConfig(undefined, layoutOverrides)
+export default config
+export const layout = await loadQuartzLayout(layoutOverrides)

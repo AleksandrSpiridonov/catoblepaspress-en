@@ -1,10 +1,10 @@
 import { i18n } from "../i18n"
 import { FullSlug, getFileExtension, joinSegments, pathToRoot } from "../util/path"
 import { CSSResourceToStyleElement, JSResourceToScriptElement } from "../util/resources"
-import { googleFontHref, googleFontSubsetHref } from "../util/theme"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { unescapeHTML } from "../util/escape"
-import { CustomOgImagesEmitterName } from "../plugins/emitters/ogImage"
+import { canonicalUrlForSlug } from "../util/seo"
+
 export default (() => {
   const Head: QuartzComponent = ({
     cfg,
@@ -28,40 +28,23 @@ export default (() => {
     const iconPath = joinSegments(baseDir, "static/icon.png")
 
     // Url of current page
-    const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+    const socialUrl = canonicalUrlForSlug(cfg.baseUrl ?? "example.com", fileData.slug ?? "index")
 
-    const usesCustomOgImage = ctx.cfg.plugins.emitters.some(
-      (e) => e.name === CustomOgImagesEmitterName,
-    )
+    const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/og-image.png`
+
+    const coreStylesheet = css[0]?.content
+    const coreScript = js.find(
+      (r) => r.loadTime === "beforeDOMReady" && r.contentType === "external",
+    )
 
     return (
       <head>
         <title>{title}</title>
         <meta charSet="utf-8" />
-        {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
-          <>
-            <link rel="preconnect" href="https://fonts.googleapis.com" />
-            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-            <link rel="preload" href={googleFontHref(cfg.theme)} as="style" onLoad={(e) => { e.currentTarget.onload = null; e.currentTarget.rel = 'stylesheet'; }} />
-            <noscript><link rel="stylesheet" href={googleFontHref(cfg.theme)} /></noscript>
-            {cfg.theme.typography.title && (
-              <link rel="preload" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} as="style" onLoad={(e) => { e.currentTarget.onload = null; e.currentTarget.rel = 'stylesheet'; }} />
-            )}
-            {cfg.theme.typography.title && (
-              <noscript><link rel="stylesheet" href={googleFontSubsetHref(cfg.theme, cfg.pageTitle)} /></noscript>
-            )}
-            <style dangerouslySetInnerHTML={{
-              __html: `
-                /* Critical font loading optimization */
-                body { font-display: swap; }
-                .copyright { font-weight: normal !important; }
-                h1, h2, h3, h4, h5, h6 { font-display: swap; }
-                p, div, span, a, li, ul, ol { font-display: swap; }
-              `
-            }} />
-          </>
+        {coreStylesheet && <link rel="preload" href={coreStylesheet} as="style" />}
+        {coreScript && coreScript.contentType === "external" && (
+          <link rel="preload" href={coreScript.src} as="script" />
         )}
         <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossOrigin="anonymous" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -89,6 +72,7 @@ export default (() => {
 
         {cfg.baseUrl && (
           <>
+            <link rel="canonical" href={socialUrl} />
             <meta property="twitter:domain" content={cfg.baseUrl}></meta>
             <meta property="og:url" content={socialUrl}></meta>
             <meta property="twitter:url" content={socialUrl}></meta>
@@ -97,6 +81,7 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        <meta name="copyright" content="© 2025–2026 Издательство «Катоблепас»" />
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
