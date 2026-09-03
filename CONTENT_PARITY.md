@@ -2,10 +2,6 @@
 
 This inventory records paths present on the Russian site but not yet present on the English site. They are not copied automatically: each public page must be translated and editorially reviewed before publication.
 
-## Publications and published editions
-
-- `content/publications/thebridgeonthedrina.md`
-
 ## Limite translation collection
 
 - `content/publications/translations/index.md`
@@ -22,7 +18,6 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Supporting assets
 
-- `content/images/ivoandric.webp`
 - `content/images/limite-p02-photo.webp`
 - `content/images/limite-p16-photo.webp`
 
@@ -32,5 +27,4 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Recommended translation batches
 
-1. Translate `content/publications/thebridgeonthedrina.md` after confirming how to handle its quoted passages.
-2. Translate the complete _Limite_ collection as one editorial unit.
+1. Translate the complete _Limite_ collection as one editorial unit.

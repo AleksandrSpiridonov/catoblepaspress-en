@@ -138,6 +138,19 @@ test("Almighty is published as a clearly labelled Chapter 1 excerpt", () => {
   assert.match(publications, /\[\[almighty\|Almighty\]\] \(excerpt from Chapter 1\)/)
 })
 
+test("The Bridge on the Drina review is translated and linked from the English site", () => {
+  const review = readFileSync(join(process.cwd(), "content", "publications", "thebridgeonthedrina.md"), "utf8")
+  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
+  const bookclub = readFileSync(join(process.cwd(), "content", "projects", "bookclub.md"), "utf8")
+
+  assert.match(review, /Filipp Dvornik, 13 May 2026/)
+  assert.match(review, /Every generation nourishes its own illusions about civilization/)
+  assert.match(review, /And at last came 1914/)
+  assert.match(review, /translated into English for this publication/)
+  assert.match(publications, /Filipp Dvornik — \[\[thebridgeonthedrina\|The Bridge on the Drina\]\]/)
+  assert.match(bookclub, /\[\[thebridgeonthedrina\\\|The Bridge on the Drina\]\]/)
+})
+
 test("English books catalogue mirrors current editions and ordering status", () => {
   const books = readFileSync(join(process.cwd(), "content", "published", "index.md"), "utf8")
   const medvedev = readFileSync(join(process.cwd(), "content", "published", "new-ideas-in-art.md"), "utf8")

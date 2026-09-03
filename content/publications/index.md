@@ -5,6 +5,7 @@ aliases:
   - Publications
 ---
 ## Publications
+- Filipp Dvornik — [[thebridgeonthedrina|The Bridge on the Drina]]
 - [[archipov|Alexey Arkhipov]] — [[almighty|Almighty]] (excerpt from Chapter 1)
 - [[ylisse|Elizaveta Kaluzhskaya]] — [[duestatuette|Due statuette, che sciocchezza...]]
 - [Yury Shipkov](https://www.instagram.com/yura_shipkov) — [[dumplings|Dumplings with Mayonnaise]]
