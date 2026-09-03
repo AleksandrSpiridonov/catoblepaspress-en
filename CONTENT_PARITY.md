@@ -5,9 +5,6 @@ This inventory records paths present on the Russian site but not yet present on 
 ## Publications and published editions
 
 - `content/publications/thebridgeonthedrina.md`
-- `content/published/editions.base`
-- `content/published/lebordeldesmuses.md`
-- `content/published/new-ideas-in-art.md`
 
 ## Limite translation collection
 
@@ -26,10 +23,8 @@ This inventory records paths present on the Russian site but not yet present on 
 ## Supporting assets
 
 - `content/images/ivoandric.webp`
-- `content/images/lebordeldesmuses.webp`
 - `content/images/limite-p02-photo.webp`
 - `content/images/limite-p16-photo.webp`
-- `content/images/novye-idei-v-iskusstve-book-mockup-square.webp`
 
 ## Partial translations
 
@@ -37,5 +32,5 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Recommended translation batches
 
-1. Journal issues and new published editions.
-2. The complete _Limite_ collection as one editorial unit.
+1. Translate `content/publications/thebridgeonthedrina.md` after confirming how to handle its quoted passages.
+2. Translate the complete _Limite_ collection as one editorial unit.

@@ -1,9 +1,15 @@
 ---
 title: Mistakes of Youth
-author: "[[evglebedev]]"
+author: Evgeny Lebedev
 description: Evgeny Lebedev’s first poetry collection "Mistakes of Youth". A cartography of poetic impulses that ended in failure.
 aliases:
   - Mistakes of Youth
+year: 2024
+status: Published
+formats:
+  - Online
+  - PDF
+cover: "https://en.catoblepaspress.ru/images/mistakesCover.webp"
 ---
 # Mistakes of Youth
 ![[mistakesCover.webp]]
