@@ -80,11 +80,15 @@ test("English interviews index links only to translated interview routes", () =>
     join(process.cwd(), "content", "interviews", "evgeny-medvedev-artistic-perception.md"),
     "utf8",
   )
+  const navka = readFileSync(
+    join(process.cwd(), "content", "interviews", "marusya-navka-kosaya-beyka.md"),
+    "utf8",
+  )
 
   assert.match(interviews, /title: Interviews/)
   assert.match(interviews, /\[\[evgeny-lebedev-poetry\|“I would prefer/)
   assert.match(interviews, /\[\[evgeny-medvedev-artistic-perception\|/)
-  assert.doesNotMatch(interviews, /\[\[marusya-navka-kosaya-beyka\|/)
+  assert.match(interviews, /\[\[marusya-navka-kosaya-beyka\|/)
   assert.match(lebedev, /youtube-nocookie\.com\/embed\/QFdVHm2m6Yw/)
   assert.match(lebedev, /\[\[№ 21 \(7\)\|issue 21\]\]/)
   assert.match(lebedev, /\[\[mistakes\|Mistakes of Youth\]\]/)
@@ -96,6 +100,11 @@ test("English interviews index links only to translated interview routes", () =>
   assert.match(medvedev, /## The search for new possibilities/)
   assert.match(medvedev, /New Ideas in Visual Art/)
   assert.doesNotMatch(medvedev, /\[\[new-ideas-in-art\|/)
+  assert.match(navka, /t\.me\/catoblepaspress\/247\?embed=1/)
+  assert.match(navka, /\[\[№ 55 \(9\)\|/)
+  assert.match(navka, /\[\[biastape\|/)
+  assert.match(navka, /\[\[voxcatoblepae\|/)
+  assert.equal((navka.match(/^## /gm) ?? []).length, 9)
 })
 
 test("English footer contains no Russian or obsolete cookie controls", () => {

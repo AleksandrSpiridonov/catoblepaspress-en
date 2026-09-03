@@ -2,10 +2,6 @@
 
 This inventory records paths present on the Russian site but not yet present on the English site. They are not copied automatically: each public page must be translated and editorially reviewed before publication.
 
-## Interviews
-
-- `content/interviews/marusya-navka-kosaya-beyka.md`
-
 ## Journal issues
 
 - `content/journal/№ 34 (8).md`
@@ -43,6 +39,5 @@ This inventory records paths present on the Russian site but not yet present on 
 
 ## Recommended translation batches
 
-1. Interviews and their images/media.
-2. Journal issues and new published editions.
-3. The complete _Limite_ collection as one editorial unit.
+1. Journal issues and new published editions.
+2. The complete _Limite_ collection as one editorial unit.
