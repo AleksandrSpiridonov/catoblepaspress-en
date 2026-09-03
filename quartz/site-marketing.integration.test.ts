@@ -1,5 +1,5 @@
 import assert from "node:assert/strict"
-import { readFileSync } from "node:fs"
+import { readdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
 import test from "node:test"
 import { canonicalUrlForSlug } from "./util/seo"
@@ -149,6 +149,21 @@ test("The Bridge on the Drina review is translated and linked from the English s
   assert.match(review, /translated into English for this publication/)
   assert.match(publications, /Filipp Dvornik — \[\[thebridgeonthedrina\|The Bridge on the Drina\]\]/)
   assert.match(bookclub, /\[\[thebridgeonthedrina\\\|The Bridge on the Drina\]\]/)
+})
+
+test("The English Limite collection contains eight translations and links to the UFRGS biography", () => {
+  const publications = readFileSync(join(process.cwd(), "content", "publications", "index.md"), "utf8")
+  const translations = readFileSync(join(process.cwd(), "content", "publications", "translations", "index.md"), "utf8")
+  const limite = readFileSync(join(process.cwd(), "content", "publications", "translations", "limite", "index.md"), "utf8")
+  const limiteDir = join(process.cwd(), "content", "publications", "translations", "limite")
+  const translatedArticles = readdirSync(limiteDir).filter((name) => name.endsWith(".md") && name !== "index.md")
+
+  assert.match(publications, /\[\[publications\/translations\/index\|Translations\]\]/)
+  assert.match(translations, /\[\[publications\/translations\/limite\/index\|Materials on Mário Peixoto’s film Limite\]\]/)
+  assert.equal(translatedArticles.length, 8)
+  assert.match(limite, /ufrgs\.br\/mariopeixoto\/en\/biography/)
+  assert.match(limite, /rather than duplicate it here/)
+  assert.doesNotMatch(limite, /\[\[mario-peixoto-biography/)
 })
 
 test("English books catalogue mirrors current editions and ordering status", () => {
