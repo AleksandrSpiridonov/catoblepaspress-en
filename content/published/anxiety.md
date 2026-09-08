@@ -9,7 +9,7 @@ status: Published
 formats:
   - Online
   - PDF
-cover: "https://en.catoblepaspress.ru/images/anxietyCover.webp"
+cover: "https://en.catoblepaspress.ru/images/anxietycover.webp"
 ---
 # Anxiety of Days
 ![[anxietyCover.webp]]

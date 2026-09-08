@@ -9,7 +9,7 @@ status: Published
 formats:
   - Online
   - PDF
-cover: "https://en.catoblepaspress.ru/images/mistakesCover.webp"
+cover: "https://en.catoblepaspress.ru/images/mistakescover.webp"
 ---
 # Mistakes of Youth
 ![[mistakesCover.webp]]
