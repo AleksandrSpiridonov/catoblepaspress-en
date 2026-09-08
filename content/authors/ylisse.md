@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/ylisse/portrait.webp"
 aliases:
   - Elizaveta Kaluzhskaya
 title: Elizaveta Kaluzhskaya
@@ -7,6 +8,8 @@ tags:
   - artist
   - curator
 ---
+![Elizaveta Kaluzhskaya](https://media.catoblepaspress.ru/authors/ylisse/portrait.webp)
+
 ## About the artist
 Elizaveta Kaluzhskaya (1992, Saint Petersburg) is an interdisciplinary artist, educator, curator, and researcher. She lives and works in London.
 

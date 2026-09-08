@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/chudnaya/portrait.webp"
 aliases:
   - Masha Chudnaya
 title: Masha Chudnaya
@@ -7,6 +8,8 @@ tags:
   - photographer
   - poet
 ---
+![Masha Chudnaya](https://media.catoblepaspress.ru/authors/chudnaya/portrait.webp)
+
 ## About the author
 Masha Chudnaya (1994, Saint Petersburg) is a professional documentary and portrait photographer, and a poet. She graduated from the Fotografika Academy of Documentary and Art Photography and from SPbGIK (photo/video).
 

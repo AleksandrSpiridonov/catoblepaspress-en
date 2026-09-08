@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/clou/portrait.webp"
 aliases:
   - Catia Clou
 title: Catia Clou
@@ -7,6 +8,8 @@ tags:
   - poet
   - artist
 ---
+![Catia Clou](https://media.catoblepaspress.ru/authors/clou/portrait.webp)
+
 ## About the author
 Catia Clou is an artist and poet living and working in Paris. Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
 

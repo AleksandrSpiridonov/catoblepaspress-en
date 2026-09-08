@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/bellyinbelly/portrait.webp"
 aliases:
   - Marusya Navka
 title: Marusya Navka
@@ -8,6 +9,8 @@ tags:
   - punk
   - musician
 ---
+![Marusya Navka](https://media.catoblepaspress.ru/authors/bellyinbelly/portrait.webp)
+
 ## About the author
 Marusya Navka (2001, Saint Petersburg) is a poet, punk, and musician. Author of the long poem “Dog Mole.” Laureate of [[voxcatoblepae|Vox Catoblepae]] 2025.
 

@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/archipov/portrait.webp"
 aliases:
   - Alexey Arkhipov
 title: Alexey Arkhipov
@@ -6,6 +7,8 @@ description: Science fiction writer
 tags:
   - writer
 ---
+![Alexey Arkhipov](https://media.catoblepaspress.ru/authors/archipov/portrait.webp)
+
 ## About the author
 Alexey Arkhipov is a science fiction writer.
 

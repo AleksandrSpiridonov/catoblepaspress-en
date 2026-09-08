@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/olenev/portrait.webp"
 title: Yury Olenev
 aliases:
   - Yury Olenev
@@ -7,6 +8,8 @@ tags:
   - philosopher
   - poet
 ---
+![Yury Olenev](https://media.catoblepaspress.ru/authors/olenev/portrait.webp)
+
 ## About the author
 Philosopher, poet, essayist. Graduate of the Faculty of Philosophy at Saint Petersburg State University. Areas of interest: cultural history, religion, and mythology.
 

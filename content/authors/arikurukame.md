@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/arikurukame/portrait.webp"
 aliases:
   - Sevak Pogosyan
 title: Sevak Pogosyan
@@ -8,6 +9,8 @@ tags:
   - artist
   - actor
 ---
+![Sevak Pogosyan](https://media.catoblepaspress.ru/authors/arikurukame/portrait.webp)
+
 ## About the author
 Sevak Pogosyan (1994, Saint Petersburg) is a poet, artist, and actor from Saint Petersburg.
 

@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/arebinder/portrait.webp"
 aliases:
   - Aleksandra Rozhkovskaya
 title: Aleksandra Rozhkovskaya
@@ -7,6 +8,8 @@ tags:
   - photographer
   - videographer
 ---
+![Aleksandra Rozhkovskaya](https://media.catoblepaspress.ru/authors/arebinder/portrait.webp)
+
 ## About the author
 Aleksandra Rozhkovskaya (1991, Saint Petersburg) is a photographer and lifelong traveler. She works with analogue photography, capturing elusive moments—shadows, movement, changing moods, and architectural details. Her method is based on the poetics of chance: every image emerges from a chain of unpredictable events and intuitive decisions.
 

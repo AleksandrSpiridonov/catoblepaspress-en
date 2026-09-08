@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/medvedevartist/portrait.webp"
 title: Evgeny Medvedev
 aliases:
   - Evgeny Medvedev
@@ -6,6 +7,8 @@ description: Artist, graduate of the Imperial Academy of Arts, master of drawing
 tags:
   - artist
 ---
+![Evgeny Medvedev](https://media.catoblepaspress.ru/authors/medvedevartist/portrait.webp)
+
 ## About the artist
 Evgeny Medvedev (b. 1994, Oryol) is an artist, graduate of the Imperial Academy of Arts, and a master of drawing from life. Author of the theoretical work [[medvedevartist#Publications|New Ideas in Visual Art]].
 

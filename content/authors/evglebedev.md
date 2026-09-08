@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/evglebedev/portrait.webp"
 title: Evgeny Lebedev
 aliases:
   - Evgeny Lebedev
@@ -7,6 +8,8 @@ tags:
   - poet
   - flâneur
 ---
+![Evgeny Lebedev](https://media.catoblepaspress.ru/authors/evglebedev/portrait.webp)
+
 ## About the author
 Evgeny Lebedev (1993, Saint Petersburg) is a speculative poet and flâneur. Graduate of the Faculty of Philosophy at Saint Petersburg State University.
 

@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/xeniaspiridonova/portrait.webp"
 aliases:
   - Ksenia Spiridonova
 title: Ksenia Spiridonova
@@ -8,6 +9,8 @@ tags:
   - restorer
   - ceramic artist
 ---
+![Ksenia Spiridonova](https://media.catoblepaspress.ru/authors/xeniaspiridonova/portrait.webp)
+
 ## About the artist
 Ksenia Spiridonova (b. 1994, Saint Petersburg) is a professional art restorer, watercolor artist, and ceramic artist, a member of the Saint Petersburg Society of Watercolorists. Her works are held in the Saint Petersburg Capella Museum and in private collections in Russia and abroad.
 

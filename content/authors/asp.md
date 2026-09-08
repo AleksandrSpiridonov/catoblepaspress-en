@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/asp/portrait.webp"
 aliases:
   - Aleksandr Spiridonov Jr.
 title: Aleksandr Spiridonov Jr.
@@ -6,6 +7,8 @@ description: Publisher
 tags:
   - publisher
 ---
+![Aleksandr Spiridonov Jr.](https://media.catoblepaspress.ru/authors/asp/portrait.webp)
+
 ## About the author
 Aleksandr Spiridonov Jr. (1992, Saint Petersburg) is a publisher and graduate of the Faculty of Philosophy at Saint Petersburg State University. Founder of the A.A. Spiridonov Publishing House, Catoblepas Press, and the journal of the same name.
 

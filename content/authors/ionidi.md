@@ -1,4 +1,5 @@
 ---
+avatar: "https://media.catoblepaspress.ru/authors/ionidi/portrait.webp"
 aliases:
   - Polina Ionidi
 title: Polina Ionidi
@@ -7,6 +8,8 @@ tags:
   - photographer
   - director
 ---
+![Polina Ionidi](https://media.catoblepaspress.ru/authors/ionidi/portrait.webp)
+
 ## About the author
 Polina Ionidi (1994, Moscow) is a professional photographer and film director.
 
