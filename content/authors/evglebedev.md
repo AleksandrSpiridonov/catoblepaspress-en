@@ -1,6 +1,9 @@
 ---
 avatar: "https://media.catoblepaspress.ru/authors/evglebedev/portrait.webp"
 title: Evgeny Lebedev
+books:
+  - "[[mistakes|Mistakes of Youth]]"
+  - "[[anxiety|Anxiety of Days]]"
 aliases:
   - Evgeny Lebedev
 description: Speculative poet

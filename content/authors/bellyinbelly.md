@@ -3,6 +3,8 @@ avatar: "https://media.catoblepaspress.ru/authors/bellyinbelly/portrait.webp"
 aliases:
   - Marusya Navka
 title: Marusya Navka
+books:
+  - "[[biastape|Bias Tape]]"
 description: Poet, punk, musician. Author of the poem “Dog Mole”
 tags:
   - poet

@@ -1,6 +1,8 @@
 ---
 avatar: "https://media.catoblepaspress.ru/authors/medvedevartist/portrait.webp"
 title: Evgeny Medvedev
+books:
+  - "[[new-ideas-in-art|New Ideas in Visual Art]]"
 aliases:
   - Evgeny Medvedev
 description: Artist, graduate of the Imperial Academy of Arts, master of drawing from life
