@@ -1,6 +1,19 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.issue-reader {
+  margin: 1.5rem 0;
+  .issue-toolbar { display:flex; justify-content:center; align-items:center; gap:1rem; margin-bottom:1rem; }
+  button { min-width:44px; min-height:44px; color:var(--dark); background:var(--light); border:1px solid var(--gray); border-radius:8px; cursor:pointer; }
+  button:disabled { opacity:0.35; cursor:default; }
+  button:focus-visible { outline:2px solid var(--secondary); }
+  .issue-pages { display:flex; overflow-x:auto; scroll-snap-type:x mandatory; gap:1rem; align-items:start; }
+  .issue-page { flex:0 0 100%; min-width:0; margin:0; scroll-snap-align:start; text-align:center; }
+  .issue-page img, .issue-page video { display:block; width:auto; max-width:100%; height:auto; max-height:78svh; aspect-ratio:9 / 16; object-fit:contain; margin:0 auto; }
+  .issue-page video { height:78svh; background:#171717; }
+  figcaption, .issue-hint { font-size:0.85rem; color:var(--gray); }
+}
+
 .video-wrapper {
   position: relative;
   width: 100%; // занимает всю доступную ширину
