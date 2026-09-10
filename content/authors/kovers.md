@@ -2,17 +2,18 @@
 aliases:
   - Konstantin Verstukov
 title: Konstantin Verstukov
-description: Science fiction writer, linguist, creator of a constructed language, author of the short-story cycle “Saga of Two Empires”
+description: Science fiction writer, linguist, creator of a constructed language, author of the novella cycle “Saga of Two Empires”
 tags:
   - writer
   - linguist
 ---
 ## About the author
-Konstantin Verstukov (2001, Saint Petersburg) is a science fiction writer, linguist, and creator of his own constructed language. Author of the short-story cycle "[Saga of Two Empires](https://litnet.com/ru/kovers-u10651270/stories)".
+Konstantin Verstukov (2001, Saint Petersburg) is a science fiction writer, linguist, and creator of his own constructed language. Author of the novella cycle "[Saga of Two Empires](https://litnet.com/ru/kovers-u10651270/stories)".
 ## Journal participation
 - [[№ 5 (4)|Issue № 5 (4)]]
 ## Books
 - Saga of Two Empires
+  - [Invasion: Red Sky](https://author.today/work/627379), 2026
   - [Life](https://author.today/work/480786), 2025
   - [The Exiled](https://author.today/work/423904), 2025
   - [The Traitor](https://author.today/work/379072), 2024
