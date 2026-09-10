@@ -1,3 +1,4 @@
+import artistGalleryScript from "./scripts/artist-gallery.inline"
 import { version } from "../../package.json"
 import { QuartzComponent, QuartzComponentConstructor } from "./types"
 
@@ -26,7 +27,7 @@ const CustomFooter: QuartzComponentConstructor<Options> = (opts) => {
     </footer>
   )
 
-  Footer.afterDOMLoaded = `
+  Footer.afterDOMLoaded = artistGalleryScript + `
     const initIssueReaders = () => {
       document.querySelectorAll('.issue-reader').forEach(reader => {
         if (reader.dataset.ready) return
