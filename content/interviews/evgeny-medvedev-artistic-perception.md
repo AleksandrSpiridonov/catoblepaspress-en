@@ -8,10 +8,13 @@ tags:
 date: 2026-02-05
 ---
 
-> [!video] Watch the interview
-> The video was published on the [Catoblepas Press Telegram channel](https://t.me/catoblepaspress/175) as part of [[№ 21 (7)|issue 21]] of the _Catoblepas_ journal.
+> [!video] Watch the interview (in Russian)
+> The interview appeared in [[№ 21 (7)|issue 21]] of the _Catoblepas_ journal.
 
-<iframe src="https://t.me/catoblepaspress/175?embed=1" width="100%" height="720" frameborder="0" scrolling="no" allowfullscreen title="Interview with Evgeny Medvedev on Telegram">Loading video from Telegram…</iframe>
+<video controls playsinline preload="metadata" style="width: 100%; height: auto;" aria-label="Interview with Evgeny Medvedev (in Russian)">
+  <source src="https://media.catoblepaspress.ru/journal/issue-07/ru/page-03.mp4" type="video/mp4">
+  <a href="https://media.catoblepaspress.ru/journal/issue-07/ru/page-03.mp4">Open the video</a>
+</video>
 
 Artist [[medvedevartist|Evgeny Medvedev]] discusses his studies at the Imperial Academy of Arts, working from life, self-portraits, improvisation, and his own book on artistic perception.
 
