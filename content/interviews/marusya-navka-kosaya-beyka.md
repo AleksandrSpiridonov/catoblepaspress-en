@@ -8,10 +8,13 @@ tags:
 date: 2026-08-01
 ---
 
-> [!video] Watch the interview
-> The video was published on the [Catoblepas Press Telegram channel](https://t.me/catoblepaspress/239) as part of [[№ 55 (9)|issue 55]] of the _Catoblepas_ journal.
+> [!video] Watch the interview (in Russian)
+> The interview appeared in [[№ 55 (9)|issue 55]] of the _Catoblepas_ journal.
 
-<iframe src="https://t.me/catoblepaspress/247?embed=1" width="100%" height="720" frameborder="0" scrolling="no" allowfullscreen title="Interview with Marusya Navka on Telegram">Loading video from Telegram…</iframe>
+<video controls playsinline preload="metadata" style="width: 100%; height: auto;" aria-label="Interview with Marusya Navka (in Russian)">
+  <source src="https://media.catoblepaspress.ru/journal/issue-09/ru/page-05.mp4" type="video/mp4">
+  <a href="https://media.catoblepaspress.ru/journal/issue-09/ru/page-05.mp4">Open the video</a>
+</video>
 
 **Participants:** [[asp|Aleksandr Spiridonov Jr.]] and [[bellyinbelly|Marusya Navka]]<br>
 **Duration:** 24:02
