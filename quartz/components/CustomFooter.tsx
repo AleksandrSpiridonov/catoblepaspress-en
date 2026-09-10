@@ -27,7 +27,9 @@ const CustomFooter: QuartzComponentConstructor<Options> = (opts) => {
     </footer>
   )
 
-  Footer.afterDOMLoaded = artistGalleryScript + `
+  Footer.afterDOMLoaded =
+    artistGalleryScript +
+    `
     const initIssueReaders = () => {
       document.querySelectorAll('.issue-reader').forEach(reader => {
         if (reader.dataset.ready) return
