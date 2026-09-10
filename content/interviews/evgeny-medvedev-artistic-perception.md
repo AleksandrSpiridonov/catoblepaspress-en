@@ -11,10 +11,9 @@ date: 2026-02-05
 > [!video] Watch the interview (in Russian)
 > The interview appeared in [[№ 21 (7)|issue 21]] of the _Catoblepas_ journal.
 
-<video controls playsinline preload="metadata" style="width: 100%; height: auto;" aria-label="Interview with Evgeny Medvedev (in Russian)">
-  <source src="https://media.catoblepaspress.ru/journal/issue-07/ru/page-03.mp4" type="video/mp4">
-  <a href="https://media.catoblepaspress.ru/journal/issue-07/ru/page-03.mp4">Open the video</a>
-</video>
+<iframe src="https://www.youtube-nocookie.com/embed/aOax5DNx30Y" title="Interview with Evgeny Medvedev" width="100%" style="aspect-ratio: 16 / 9; height: auto; border: 0;" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Choose the subtitle language in the YouTube player settings.
 
 Artist [[medvedevartist|Evgeny Medvedev]] discusses his studies at the Imperial Academy of Arts, working from life, self-portraits, improvisation, and his own book on artistic perception.
 
