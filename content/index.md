@@ -14,6 +14,7 @@ Catoblepas is an independent press for contemporary poetry, a stochastic journal
 
 > [!abstract] Now at Catoblepas
 >
+> - **[[publications/reports/kosaya-beyka-presentation|sewn — a report on the Bias Tape launch]]** — Photographs, video, and guests’ impressions from the gathering at F5 on 24 September 2026.
 > - <strong><a href="./published/biastape#order" class="internal">Order Marusya Navka’s <em>Bias Tape</em></a></strong> — the pre-order is complete and the book is going to press
 > - <strong><a href="./interviews/marusya-navka-kosaya-beyka" class="internal">Watch or read our interview with Marusya Navka</a></strong> — about <em>Bias Tape</em>, poetry, music, and theatre
 > - <strong><a href="./journal/" class="internal">Read the stochastic journal</a></strong> — poetry, prose, essays, visual art, cinema, and music
