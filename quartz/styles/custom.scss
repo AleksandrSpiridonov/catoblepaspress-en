@@ -400,3 +400,10 @@ footer {
     border-radius: 0;
   }
 }
+
+.report-photo-link {
+  display: block;
+  > .external-icon {
+    display: none;
+  }
+}

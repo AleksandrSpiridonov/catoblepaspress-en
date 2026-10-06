@@ -43,6 +43,9 @@ Publisher: [[asp|Aleksandr Spiridonov Jr.]]
 > [!tip] Interview with the author
 > Watch or read our [[interviews/marusya-navka-kosaya-beyka|interview with Marusya Navka]] about _Bias Tape_, poetry, music, and theatre.
 
+> [!tip] Book launch
+> [[publications/reports/kosaya-beyka-presentation|sewn — a report on the Bias Tape launch]] — Photographs, video, and guests’ impressions from the gathering at F5 on 24 September 2026.
+
 ## Order
 
 Choose an edition and email [catoblepaspress@mail.ru](mailto:catoblepaspress@mail.ru) with the subject “Bias Tape”. We will tell you how to pay and receive the book.

@@ -13,3 +13,4 @@ aliases:
 - [[evglebedev|Evgeny Lebedev]] — [[fies|Flies]] (translation of Alice Oswald)
 - [Nika Neputina](https://t.me/animfolder) — [[franimation|French Animation: Nika Neputina’s Selection]]
 - [[olenev|Yury Olenev]] — [[poetry|On Poetry]]
+- [[asp|Aleksandr Spiridonov Jr.]] — [[publications/reports/kosaya-beyka-presentation|sewn — a report on the Bias Tape launch]]
