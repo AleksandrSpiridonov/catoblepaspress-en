@@ -403,5 +403,7 @@ footer {
 
 .report-photo-link {
   display: block;
-  > .external-icon { display: none; }
+  > .external-icon {
+    display: none;
+  }
 }
